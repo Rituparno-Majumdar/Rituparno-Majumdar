@@ -12,7 +12,7 @@ I work on Bengali language AI training data — annotation, evaluation, and qual
 
 | Repo | What it does |
 |---|---|
-| 🔬 `bengali-annotation-quality` | Gold-standard calibration: re-annotation of public Bengali dataset with Kappa/IAA metrics *(coming soon)* |
+| 🔬 [`bengali-annotation-quality`](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Gold-standard calibration: blind re-annotation of BLP-2023 Bengali sentiment dataset with Cohen's Kappa measurement |
 | 🗣️ [`bengali-annotation-job-alert`](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Monitors 11 sources every 6 hours for Bengali NLP annotation roles — Python + GitHub Actions + Telegram |
 | 📊 `bengali-codemix-dataset` | Labelled Bengali-English code-mixed sentences with naturalness ratings and code-switch boundary tags *(coming soon)* |
 | 🏷️ `bengali-sentiment-annotation` | Fine-grained Bengali sentiment and hate speech annotations with cultural edge case documentation *(coming soon)* |
