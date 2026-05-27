@@ -19,12 +19,12 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 <!-- START_SHOWCASE -->
 | 📁 Project Showcase | 📝 Description | 🛠️ Language | 📊 Stats |
 | :--- | :--- | :---: | :---: |
-| 🌾 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions | `Python` | ⭐ 0 &middot; 🍴 0 |
-| 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions | `Python` | ⭐ 0 &middot; 🍴 0 |
-| 🛠️ [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | No description provided. | `HTML` | ⭐ 0 &middot; 🍴 0 |
-| 🇮🇳 [**kalki**](https://github.com/Rituparno-Majumdar/kalki) | India's Open Intelligence Platform — open-source early-warning signals from public data | `Python` | ⭐ 0 &middot; 🍴 1 |
-| 🌾 [**ngo-mis-toolkit**](https://github.com/Rituparno-Majumdar/ngo-mis-toolkit) | CLI toolkit for NGO reporting, logframe management & CSR compliance tracking in India. Generate donor-ready Word reports, validate LFA indicators, and track CSR project compliance from the command line. | `Python` | ⭐ 0 &middot; 🍴 0 |
-| 🗣️ [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Bengali annotation quality assessment: calibration against gold-standard sentiment dataset with Cohen's Kappa and disagreement analysis | `Python` | ⭐ 0 &middot; 🍴 0 |
+| 🌾 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and... | `Python` | ⭐ 0 · 🍴 0 |
+| 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities ... | `Python` | ⭐ 0 · 🍴 0 |
+| 🛠️ [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | No description provided. | `HTML` | ⭐ 0 · 🍴 0 |
+| 🇮🇳 [**kalki**](https://github.com/Rituparno-Majumdar/kalki) | India's Open Intelligence Platform — open-source early-warning signals from p... | `Python` | ⭐ 0 · 🍴 1 |
+| 🌾 [**ngo-mis-toolkit**](https://github.com/Rituparno-Majumdar/ngo-mis-toolkit) | CLI toolkit for NGO reporting, logframe management & CSR compliance tracking ... | `Python` | ⭐ 0 · 🍴 0 |
+| 🗣️ [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Bengali annotation quality assessment: calibration against gold-standard sent... | `Python` | ⭐ 0 · 🍴 0 |
 <!-- END_SHOWCASE -->
 
 ## 🛠️ The Tech Stack I Build With

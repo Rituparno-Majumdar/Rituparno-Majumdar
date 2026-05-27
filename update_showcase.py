@@ -21,6 +21,11 @@ def fetch_repos(username):
         print(f"Error fetching repositories: {e}")
         return []
 
+def truncate_text(text, max_len=80):
+    if len(text) > max_len:
+        return text[:max_len-3] + "..."
+    return text
+
 def generate_markdown_table(repos, username):
     # Filter out forks, the profile repository itself
     filtered_repos = []
@@ -71,11 +76,12 @@ def generate_markdown_table(repos, username):
                 emoji = em
                 break
                 
-        # Clean up description to prevent breaking GFM pipes
+        # Clean up description to prevent breaking GFM pipes and truncate to 80 chars
         desc = desc.replace("|", "\\|")
+        desc = truncate_text(desc, 80)
         
         table_lines.append(
-            f"| {emoji} [**{name}**]({html_url}) | {desc} | `{lang}` | ⭐ {stars} &middot; 🍴 {forks} |"
+            f"| {emoji} [**{name}**]({html_url}) | {desc} | `{lang}` | ⭐ {stars} · 🍴 {forks} |"
         )
         
     return "\n".join(table_lines)
