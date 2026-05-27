@@ -44,8 +44,8 @@ def generate_markdown_table(repos, username):
     top_repos = filtered_repos[:6]
     
     table_lines = [
-        "| 📁 Project Showcase | 📝 Description | 🛠️ Language | 📊 Stats |",
-        "| :--- | :--- | :---: | :---: |"
+        "| 📁 Project Showcase | 📝 Description | 🛠️ Language |",
+        "| :--- | :--- | :---: |"
     ]
     
     # Emoji mapping for different project themes based on keywords
@@ -66,8 +66,6 @@ def generate_markdown_table(repos, username):
         html_url = r.get("html_url")
         desc = r.get("description") or "No description provided."
         lang = r.get("language") or "Mixed"
-        stars = r.get("stargazers_count", 0)
-        forks = r.get("forks_count", 0)
         
         # Pick emoji based on keywords
         emoji = "🛠️"
@@ -76,12 +74,11 @@ def generate_markdown_table(repos, username):
                 emoji = em
                 break
                 
-        # Clean up description to prevent breaking GFM pipes and truncate to 80 chars
+        # Clean up description to prevent breaking GFM pipes and preserve full text
         desc = desc.replace("|", "\\|")
-        desc = truncate_text(desc, 80)
         
         table_lines.append(
-            f"| {emoji} [**{name}**]({html_url}) | {desc} | `{lang}` | ⭐ {stars} · 🍴 {forks} |"
+            f"| {emoji} [**{name}**]({html_url}) | {desc} | `{lang}` |"
         )
         
     return "\n".join(table_lines)
