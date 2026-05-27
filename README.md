@@ -76,16 +76,23 @@ Creating professional-grade tools to solve real bottlenecks in data management, 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rituparno-Majumdar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rituparno's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rituparno-Majumdar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Rituparno's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rituparno-Majumdar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rituparno-Majumdar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rituparno-Majumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rituparno-Majumdar&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 

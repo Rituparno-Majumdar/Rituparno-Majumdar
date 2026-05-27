@@ -1,0 +1,17 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Runs every 30 minutes
+  workflow_dispatch:        # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Required to commit changes to the README
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
