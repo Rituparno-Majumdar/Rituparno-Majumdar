@@ -14,33 +14,18 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 
 ---
 
-## 🔬 Core Pillars of My Work
+## 🔬 Curated Project Showcase
 
-### 🌐 Pillar I: Bengali NLP, LLM Quality & Language Tech
-I specialize in high-quality Bengali AI training data, code-mixed language evaluations, and alignment methodologies for underrepresented Indian languages.
-
-*   🎯 **[Readfluence](https://github.com/Rituparno-Majumdar/readfluence) (Next.js 16 + SQLite):** A premium language-learning reading platform (LingQ/Readlang clone) featuring client-side TTS, synced Whisper transcripts, and dynamic AI-powered CEFR story generators.
-*   📱 **[SocialCraft AI](https://github.com/Rituparno-Majumdar/social-craft-ai) (Multilingual Campaign Suite):** A zero-install browser-based social campaign drafts manager optimized for small Indian NGOs. Features client-side image auto-compression and parallel generations in **13 regional scripts** via Gemini Vision.
-*   🧪 **[`bengali-annotation-quality`](https://github.com/Rituparno-Majumdar/bengali-annotation-quality):** Gold-standard blind re-annotation calibration of the BLP-2023 Bengali sentiment dataset utilizing inter-annotator agreement metrics (Cohen's Kappa).
-*   🤖 **[`bengali-annotation-job-alert`](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert):** An automated Python tracking engine running on GitHub Actions that monitors 11 portals every 6 hours to alert translators/annotators via Telegram.
-
-*🚀 In Pipeline: Fine-grained sentiment boundaries, Bengali NER schemas, and RLHF evaluation sets for Indian language localized safety.*
-
----
-
-### 🌾 Pillar II: Civic Tech, CSR & NGO Operations
-Creating professional-grade tools to solve real bottlenecks in data management, deduplication, and reporting for Indian social organizations.
-
-*   📊 **[ngo-grants-radar](https://github.com/Rituparno-Majumdar/ngo-grants-radar) & `ngo-mis-toolkit`:** Automated trackers parsing funding opportunities, logic model (LFA) validators, and compliance tools.
-*   🔍 **`beneficiary-dedup-tool`:** A high-performance fuzzy-matching script for duplicate cleaning in rural beneficiary datasets with confidence scores and automatic unique ID generation.
-
----
-
-### 🧠 Pillar III: Self-Improving Systems & Personal Knowledge
-*   📝 **[`obsidian-llm-wiki-kit`](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit):** Prompt-engineering frameworks and scripts turning Obsidian markdown notes into self-growing, structured digital wikis.
-*   🤖 **[`opencode-research-agents`](https://github.com/Rituparno-Majumdar/opencode-research-agents):** A collection of 5 lightweight, parallelized research agents orchestrated to compile comprehensive analyses on requested domains.
-
----
+<!-- START_SHOWCASE -->
+| 📁 Project Showcase | 📝 Description | 🛠️ Primary Language | 📊 Stats |
+| :--- | :--- | :--- | :--- |
+| 🌾 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions | `Python` | ⭐ 0 · 🍴 0 |
+| 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions | `Python` | ⭐ 0 · 🍴 0 |
+| 🛠️ [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | No description provided. | `HTML` | ⭐ 0 · 🍴 0 |
+| 🇮🇳 [**kalki**](https://github.com/Rituparno-Majumdar/kalki) | India's Open Intelligence Platform — open-source early-warning signals from public data | `Python` | ⭐ 0 · 🍴 1 |
+| 🌾 [**ngo-mis-toolkit**](https://github.com/Rituparno-Majumdar/ngo-mis-toolkit) | CLI toolkit for NGO reporting, logframe management & CSR compliance tracking in India. Generate donor-ready Word reports, validate LFA indicators, and track CSR project compliance from the command line. | `Python` | ⭐ 0 · 🍴 0 |
+| 🗣️ [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Bengali annotation quality assessment: calibration against gold-standard sentiment dataset with Cohen's Kappa and disagreement analysis | `Python` | ⭐ 0 · 🍴 0 |
+<!-- END_SHOWCASE -->
 
 ## 🛠️ The Tech Stack I Build With
 
