@@ -22,7 +22,7 @@ def fetch_repos(username):
         return []
 
 def generate_markdown_table(repos, username):
-    # Filter out forks, the profile repository itself, and ensure they have a description
+    # Filter out forks, the profile repository itself
     filtered_repos = []
     for r in repos:
         if r.get("fork"):
@@ -35,12 +35,20 @@ def generate_markdown_table(repos, username):
     # Sort by stars, and then by last updated to highlight best projects first
     filtered_repos.sort(key=lambda x: (x.get("stargazers_count", 0), x.get("updated_at", "")), reverse=True)
     
-    # Take top 5 core projects
+    # Take top 6 core projects
     top_repos = filtered_repos[:6]
     
-    table_lines = [
-        "| 📁 Project Showcase | 📝 Description | 🛠️ Primary Language | 📊 Stats |",
-        "| :--- | :--- | :--- | :--- |"
+    table_html = [
+        "<table width=\"100%\">",
+        "  <thead>",
+        "    <tr>",
+        "      <th width=\"30%\" align=\"left\">📁 Project Showcase</th>",
+        "      <th width=\"45%\" align=\"left\">📝 Description</th>",
+        "      <th width=\"12%\" align=\"center\">🛠️ Language</th>",
+        "      <th width=\"13%\" align=\"center\">📊 Stats</th>",
+        "    </tr>",
+        "  </thead>",
+        "  <tbody>"
     ]
     
     # Emoji mapping for different project themes based on keywords
@@ -71,14 +79,20 @@ def generate_markdown_table(repos, username):
                 emoji = em
                 break
                 
-        # Format lang badge using a small shield icon or plain text
-        lang_str = f"`{lang}`"
+        # Clean up description to prevent breaking HTML tags
+        desc = desc.replace("<", "&lt;").replace(">", "&gt;")
         
-        table_lines.append(
-            f"| {emoji} [**{name}**]({html_url}) | {desc} | {lang_str} | ⭐ {stars} · 🍴 {forks} |"
-        )
+        table_html.append("    <tr>")
+        table_html.append(f"      <td align=\"left\"><b>{emoji} <a href=\"{html_url}\">{name}</a></b></td>")
+        table_html.append(f"      <td align=\"left\">{desc}</td>")
+        table_html.append(f"      <td align=\"center\"><code>{lang}</code></td>")
+        table_html.append(f"      <td align=\"center\">⭐ {stars} &middot; 🍴 {forks}</td>")
+        table_html.append("    </tr>")
         
-    return "\n".join(table_lines)
+    table_html.append("  </tbody>")
+    table_html.append("</table>")
+    
+    return "\n".join(table_html)
 
 def update_readme():
     username = "Rituparno-Majumdar"
