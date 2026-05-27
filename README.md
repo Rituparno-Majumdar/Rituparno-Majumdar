@@ -92,6 +92,11 @@ Creating professional-grade tools to solve real bottlenecks in data management, 
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#12](https://github.com/Rituparno-Majumdar/kalki/issues/12) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
+2. 🗣 Commented on [#11](https://github.com/Rituparno-Majumdar/kalki/pull/11#issuecomment-4545677819) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
+3. 🔒 Closed issue [#1](https://github.com/Rituparno-Majumdar/kalki/issues/1) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
+4. 🗣 Commented on [#11](https://github.com/Rituparno-Majumdar/kalki/pull/11#issuecomment-4529050692) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
+5. 🎉 Merged PR [#10](https://github.com/Rituparno-Majumdar/kalki/pull/10) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
 <!--END_SECTION:activity-->
 
 ---
