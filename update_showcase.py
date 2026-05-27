@@ -38,17 +38,9 @@ def generate_markdown_table(repos, username):
     # Take top 6 core projects
     top_repos = filtered_repos[:6]
     
-    table_html = [
-        "<table width=\"100%\">",
-        "  <thead>",
-        "    <tr>",
-        "      <th width=\"30%\" align=\"left\">📁 Project Showcase</th>",
-        "      <th width=\"45%\" align=\"left\">📝 Description</th>",
-        "      <th width=\"12%\" align=\"center\">🛠️ Language</th>",
-        "      <th width=\"13%\" align=\"center\">📊 Stats</th>",
-        "    </tr>",
-        "  </thead>",
-        "  <tbody>"
+    table_lines = [
+        "| 📁 Project Showcase | 📝 Description | 🛠️ Language | 📊 Stats |",
+        "| :--- | :--- | :---: | :---: |"
     ]
     
     # Emoji mapping for different project themes based on keywords
@@ -79,20 +71,14 @@ def generate_markdown_table(repos, username):
                 emoji = em
                 break
                 
-        # Clean up description to prevent breaking HTML tags
-        desc = desc.replace("<", "&lt;").replace(">", "&gt;")
+        # Clean up description to prevent breaking GFM pipes
+        desc = desc.replace("|", "\\|")
         
-        table_html.append("    <tr>")
-        table_html.append(f"      <td align=\"left\"><b>{emoji} <a href=\"{html_url}\">{name}</a></b></td>")
-        table_html.append(f"      <td align=\"left\">{desc}</td>")
-        table_html.append(f"      <td><div align=\"center\"><code>{lang}</code></div></td>")
-        table_html.append(f"      <td><div align=\"center\">⭐ {stars} &middot; 🍴 {forks}</div></td>")
-        table_html.append("    </tr>")
+        table_lines.append(
+            f"| {emoji} [**{name}**]({html_url}) | {desc} | `{lang}` | ⭐ {stars} &middot; 🍴 {forks} |"
+        )
         
-    table_html.append("  </tbody>")
-    table_html.append("</table>")
-    
-    return "\n".join(table_html)
+    return "\n".join(table_lines)
 
 def update_readme():
     username = "Rituparno-Majumdar"
