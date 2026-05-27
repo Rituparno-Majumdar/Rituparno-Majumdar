@@ -30,38 +30,38 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
     <tr>
       <td align="left"><b>🌾 <a href="https://github.com/Rituparno-Majumdar/ngo-jobs-radar">ngo-jobs-radar</a></b></td>
       <td align="left">Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions</td>
-      <td align="center"><code>Python</code></td>
-      <td align="center">⭐ 0 &middot; 🍴 0</td>
+      <td><div align="center"><code>Python</code></div></td>
+      <td><div align="center">⭐ 0 &middot; 🍴 0</div></td>
     </tr>
     <tr>
       <td align="left"><b>🌾 <a href="https://github.com/Rituparno-Majumdar/ngo-grants-radar">ngo-grants-radar</a></b></td>
       <td align="left">Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions</td>
-      <td align="center"><code>Python</code></td>
-      <td align="center">⭐ 0 &middot; 🍴 0</td>
+      <td><div align="center"><code>Python</code></div></td>
+      <td><div align="center">⭐ 0 &middot; 🍴 0</div></td>
     </tr>
     <tr>
       <td align="left"><b>🛠️ <a href="https://github.com/Rituparno-Majumdar/social-media-manager">social-media-manager</a></b></td>
       <td align="left">No description provided.</td>
-      <td align="center"><code>HTML</code></td>
-      <td align="center">⭐ 0 &middot; 🍴 0</td>
+      <td><div align="center"><code>HTML</code></div></td>
+      <td><div align="center">⭐ 0 &middot; 🍴 0</div></td>
     </tr>
     <tr>
       <td align="left"><b>🇮🇳 <a href="https://github.com/Rituparno-Majumdar/kalki">kalki</a></b></td>
       <td align="left">India's Open Intelligence Platform — open-source early-warning signals from public data</td>
-      <td align="center"><code>Python</code></td>
-      <td align="center">⭐ 0 &middot; 🍴 1</td>
+      <td><div align="center"><code>Python</code></div></td>
+      <td><div align="center">⭐ 0 &middot; 🍴 1</div></td>
     </tr>
     <tr>
       <td align="left"><b>🌾 <a href="https://github.com/Rituparno-Majumdar/ngo-mis-toolkit">ngo-mis-toolkit</a></b></td>
       <td align="left">CLI toolkit for NGO reporting, logframe management & CSR compliance tracking in India. Generate donor-ready Word reports, validate LFA indicators, and track CSR project compliance from the command line.</td>
-      <td align="center"><code>Python</code></td>
-      <td align="center">⭐ 0 &middot; 🍴 0</td>
+      <td><div align="center"><code>Python</code></div></td>
+      <td><div align="center">⭐ 0 &middot; 🍴 0</div></td>
     </tr>
     <tr>
       <td align="left"><b>🗣️ <a href="https://github.com/Rituparno-Majumdar/bengali-annotation-quality">bengali-annotation-quality</a></b></td>
       <td align="left">Bengali annotation quality assessment: calibration against gold-standard sentiment dataset with Cohen's Kappa and disagreement analysis</td>
-      <td align="center"><code>Python</code></td>
-      <td align="center">⭐ 0 &middot; 🍴 0</td>
+      <td><div align="center"><code>Python</code></div></td>
+      <td><div align="center">⭐ 0 &middot; 🍴 0</div></td>
     </tr>
   </tbody>
 </table>

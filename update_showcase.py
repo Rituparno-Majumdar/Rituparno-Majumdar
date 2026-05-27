@@ -85,8 +85,8 @@ def generate_markdown_table(repos, username):
         table_html.append("    <tr>")
         table_html.append(f"      <td align=\"left\"><b>{emoji} <a href=\"{html_url}\">{name}</a></b></td>")
         table_html.append(f"      <td align=\"left\">{desc}</td>")
-        table_html.append(f"      <td align=\"center\"><code>{lang}</code></td>")
-        table_html.append(f"      <td align=\"center\">⭐ {stars} &middot; 🍴 {forks}</td>")
+        table_html.append(f"      <td><div align=\"center\"><code>{lang}</code></div></td>")
+        table_html.append(f"      <td><div align=\"center\">⭐ {stars} &middot; 🍴 {forks}</div></td>")
         table_html.append("    </tr>")
         
     table_html.append("  </tbody>")
