@@ -21,10 +21,10 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 | :--- | :--- | :---: |
 | 🌾 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions | `Python` |
 | 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions | `Python` |
+| 🛠️ [**sw-parivar**](https://github.com/Rituparno-Majumdar/sw-parivar) | Indian Social Work Knowledge Base — laws, schemes, judgments, constitution & frameworks. UGC-NET, CSR, field reference. Offline-first, zero-install HTML app. | `HTML` |
+| 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | No description provided. | `Python` |
+| 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor for Bengali AI data annotation & NLP/LLM training roles — scrapes LinkedIn, Remotive & RSS, sends Telegram alerts, runs on GitHub Actions | `Python` |
 | 🛠️ [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | No description provided. | `HTML` |
-| 🇮🇳 [**kalki**](https://github.com/Rituparno-Majumdar/kalki) | India's Open Intelligence Platform — open-source early-warning signals from public data | `Python` |
-| 🌾 [**ngo-mis-toolkit**](https://github.com/Rituparno-Majumdar/ngo-mis-toolkit) | CLI toolkit for NGO reporting, logframe management & CSR compliance tracking in India. Generate donor-ready Word reports, validate LFA indicators, and track CSR project compliance from the command line. | `Python` |
-| 🗣️ [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Bengali annotation quality assessment: calibration against gold-standard sentiment dataset with Cohen's Kappa and disagreement analysis | `Python` |
 <!-- END_SHOWCASE -->
 
 ## 🛠️ The Tech Stack I Build With
