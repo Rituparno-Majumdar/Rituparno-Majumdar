@@ -19,8 +19,8 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 <!-- START_SHOWCASE -->
 | 📁 Project Showcase | 📝 Description | 🛠️ Language |
 | :--- | :--- | :---: |
-| 🌾 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions | `Python` |
 | 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions | `Python` |
+| 🌾 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions | `Python` |
 | 🛠️ [**sw-parivar**](https://github.com/Rituparno-Majumdar/sw-parivar) | Indian Social Work Knowledge Base — laws, schemes, judgments, constitution & frameworks. UGC-NET, CSR, field reference. Offline-first, zero-install HTML app. | `HTML` |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | No description provided. | `Python` |
 | 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor for Bengali AI data annotation & NLP/LLM training roles — scrapes LinkedIn, Remotive & RSS, sends Telegram alerts, runs on GitHub Actions | `Python` |
