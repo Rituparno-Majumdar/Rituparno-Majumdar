@@ -17,14 +17,25 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 ## 🔬 Curated Project Showcase
 
 <!-- START_SHOWCASE -->
-| 📁 Project Showcase | 📝 Description | 🛠️ Language |
+### 🤖 AI, NLP & LLM Orchestration
+
+| Project | Description | Language |
 | :--- | :--- | :---: |
-| 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions | `Python` |
-| 🌾 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions | `Python` |
-| 🛠️ [**sw-parivar**](https://github.com/Rituparno-Majumdar/sw-parivar) | Indian Social Work Knowledge Base — laws, schemes, judgments, constitution & frameworks. UGC-NET, CSR, field reference. Offline-first, zero-install HTML app. | `HTML` |
-| 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | No description provided. | `Python` |
-| 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor for Bengali AI data annotation & NLP/LLM training roles — scrapes LinkedIn, Remotive & RSS, sends Telegram alerts, runs on GitHub Actions | `Python` |
-| 🛠️ [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | No description provided. | `HTML` |
+| 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
+| 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
+| 🎨 [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | **SocialCraft AI**: Zero-install client-side AI tool generating platform-optimized posts in 13 Indian regional languages using the Gemini API. | `HTML` |
+| 🧪 [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Annotation quality assessment pipeline calibrating Bengali sentiment datasets with Cohen's Kappa, disagreement analysis, and bias evaluation. | `Python` |
+| 🤖 [**opencode-research-agents**](https://github.com/Rituparno-Majumdar/opencode-research-agents) | A multi-agent research orchestration system running inside OpenCode, using epistemic parallelism to save synthesized findings to Obsidian. | `Shell` |
+
+### 🌾 Civic Tech, CSR & NGO Tools
+
+| Project | Description | Language |
+| :--- | :--- | :---: |
+| 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions. | `Python` |
+| 💼 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions. | `Python` |
+| 📚 [**sw-parivar**](https://github.com/Rituparno-Majumdar/sw-parivar) | Indian Social Work Knowledge Base — offline-first reference vault of laws, schemes, judgments, and UGC-NET frameworks for field practitioners. | `HTML` |
+| 🇮🇳 [**kalki**](https://github.com/Rituparno-Majumdar/kalki) | **Kalki**: India's Open Intelligence Platform — open-source early-warning signals from public data to foresee climate, health, and economic crises. | `Python` |
+| 📊 [**ngo-mis-toolkit**](https://github.com/Rituparno-Majumdar/ngo-mis-toolkit) | CLI toolkit for NGO reporting, logframe management & CSR compliance tracking in India. Generate donor-ready Word reports and validate LFA indicators. | `Python` |
 <!-- END_SHOWCASE -->
 
 ## 🛠️ The Tech Stack I Build With
