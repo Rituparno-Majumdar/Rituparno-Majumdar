@@ -46,6 +46,11 @@ This document contains a complete record of all the repository updates, features
 *   **Resolved Issue #7 (Hindi Docs)**: Translated priority sections of the README into Hindi ([README.hi.md](file:///Users/pari/kalki/README.hi.md)) and added a language badge link in the English README.
 *   *Created, pushed, and successfully merged Pull Request #13 into the `main` branch (bypassing branch protection reviews).*
 
+### 7. 🚀 New AI Repositories Created End-to-End
+*   **KappaBench ([kappabench](https://github.com/Rituparno-Majumdar/kappabench))**: An automated consensus and agreement benchmarking framework for LLM-as-a-judge classifiers. Implements Cohen's Kappa, Fleiss' Kappa, and Krippendorff's Alpha, along with a complete CLI, test suite, and Makefile.
+*   **MarkdownMind ([markdownmind](https://github.com/Rituparno-Majumdar/markdownmind))**: An autonomous knowledge graph synthesizer for Markdown vaults. Implements Wikilink parsing, cosine-similarity based TF-IDF clustering, Levenshtein-distance broken link patching, and index compilation using the Gemini API.
+*   **PromptShield ([promptshield](https://github.com/Rituparno-Majumdar/promptshield))**: A defensive LLM structured extraction validation middleware. Implements input prompt injection sanitization, state-machine bracket repair for truncated JSON, and a Pydantic validation decorator.
+
 ---
 
 ## 🗂️ Active Files Modified
@@ -65,3 +70,7 @@ This document contains a complete record of all the repository updates, features
     *   [schema/__init__.py](file:///Users/pari/kalki/schema/__init__.py) — exported Prakriti models.
     *   [README.md](file:///Users/pari/kalki/README.md) — added Hindi badge link.
     *   [README.hi.md](file:///Users/pari/kalki/README.hi.md) — Hindi README translation.
+*   **New AI Repositories**:
+    *   [kappabench](file:///Users/pari/kappabench) — built end-to-end.
+    *   [markdownmind](file:///Users/pari/markdownmind) — built end-to-end.
+    *   [promptshield](file:///Users/pari/promptshield) — built end-to-end.
