@@ -38,6 +38,12 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 | 📊 [**ngo-mis-toolkit**](https://github.com/Rituparno-Majumdar/ngo-mis-toolkit) | CLI toolkit for NGO reporting, logframe management & CSR compliance tracking in India. Generate donor-ready Word reports and validate LFA indicators. | `Python` |
 <!-- END_SHOWCASE -->
 
+## ✍️ Featured Technical Guides
+
+| Guide | Description | Resource |
+| :--- | :--- | :---: |
+| ☁️ [**Run Hermes Agent on a Cheap VPS**](https://gist.github.com/Rituparno-Majumdar/89c29b953ee665cef8d5ec095ece2d90) | Deploy your own autonomous AI coding agent on a $2/mo VPS (AIC Cloud) using free DeepSeek V4 via the OpenCode API, and hook it up with a custom Telegram Bot. | `GitHub Gist` |
+
 ## 🛠️ The Tech Stack I Build With
 
 <p align="left">
