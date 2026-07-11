@@ -44,6 +44,14 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 | 🇮🇳 [**kalki**](https://github.com/Rituparno-Majumdar/kalki) | **Kalki**: India's Open Intelligence Platform — open-source early-warning signals from public data to foresee climate, health, and economic crises. | `Python` |
 | 📊 [**ngo-mis-toolkit**](https://github.com/Rituparno-Majumdar/ngo-mis-toolkit) | CLI toolkit for NGO reporting, logframe management & CSR compliance tracking in India. Generate donor-ready Word reports and validate LFA indicators. | `Python` |
 <!-- END_SHOWCASE -->
+## 📦 Daily Builds
+
+| Date | Repo | Description | Domain |
+|------|------|-------------|--------|
+<!-- DAILY_BUILDS_START -->
+<!-- DAILY_BUILDS_END -->
+
+
 
 ## ✍️ Featured Technical Guides
 
