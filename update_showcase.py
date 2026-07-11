@@ -65,6 +65,30 @@ CURATED_PROJECTS = {
         "category": "🌾 Civic Tech, CSR & NGO Tools",
         "description": "Indian Social Work Knowledge Base — offline-first reference vault of laws, schemes, judgments, and UGC-NET frameworks for field practitioners."
     },
+    "forest-rights-claim": {
+        "name": "forest-rights-claim",
+        "emoji": "🌿",
+        "category": "🌾 Civic Tech, CSR & NGO Tools",
+        "description": "Offline-first FRA 2006 land claim mapping tool for tribal communities — trace GPS boundaries on Leaflet and generate official Schedule I Form A PDFs."
+    },
+    "bail-draft-builder": {
+        "name": "bail-draft-builder",
+        "emoji": "⚖️",
+        "category": "🌾 Civic Tech, CSR & NGO Tools",
+        "description": "Interactive BNSS Section 479 under-trial bail eligibility calculator — computes detention threshold and generates formal, court-ready bail petitions."
+    },
+    "pds-audit-portal": {
+        "name": "pds-audit-portal",
+        "emoji": "📦",
+        "category": "🌾 Civic Tech, CSR & NGO Tools",
+        "description": "Automated audit engine for India's Public Distribution System — detects duplicate ration cards, allocation shortfalls, and suspicious cancellation hotspots."
+    },
+    "voice-reporting-companion": {
+        "name": "voice-reporting-companion",
+        "emoji": "🎙️",
+        "category": "🌾 Civic Tech, CSR & NGO Tools",
+        "description": "Offline-first voice-to-JSON health reporting tool for ASHA and Anganwadi workers — auto-parses speech into NHM child health forms and stores in IndexedDB."
+    },
     "kappabench": {
         "name": "kappabench",
         "emoji": "📊",
