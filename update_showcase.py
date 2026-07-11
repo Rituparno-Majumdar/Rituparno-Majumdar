@@ -64,6 +64,24 @@ CURATED_PROJECTS = {
         "emoji": "📚",
         "category": "🌾 Civic Tech, CSR & NGO Tools",
         "description": "Indian Social Work Knowledge Base — offline-first reference vault of laws, schemes, judgments, and UGC-NET frameworks for field practitioners."
+    },
+    "kappabench": {
+        "name": "kappabench",
+        "emoji": "📊",
+        "category": "🤖 AI, NLP & LLM Orchestration",
+        "description": "Agreement and consensus benchmarking framework for LLM-as-a-judge classifiers — calculates Cohen's Kappa, Fleiss' Kappa, and Krippendorff's Alpha."
+    },
+    "markdownmind": {
+        "name": "markdownmind",
+        "emoji": "🧠",
+        "category": "🤖 AI, NLP & LLM Orchestration",
+        "description": "Autonomous knowledge graph synthesizer for Markdown vaults — structures links, clusters topics, detects orphan files, and generates summaries."
+    },
+    "promptshield": {
+        "name": "promptshield",
+        "emoji": "🛡️",
+        "category": "🤖 AI, NLP & LLM Orchestration",
+        "description": "Defensive LLM structured extraction validation middleware — guards against prompt injections and repairs truncated JSON responses."
     }
 }
 
