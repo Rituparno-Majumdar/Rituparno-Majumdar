@@ -35,8 +35,9 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions. | `Python` |
-| 📚 [**sw-parivar**](https://github.com/Rituparno-Majumdar/sw-parivar) | Indian Social Work Knowledge Base — offline-first reference vault of laws, schemes, judgments, and UGC-NET frameworks for field practitioners. | `HTML` |
 | 💼 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions. | `Python` |
+| 📚 [**sw-parivar**](https://github.com/Rituparno-Majumdar/sw-parivar) | Indian Social Work Knowledge Base — offline-first reference vault of laws, schemes, judgments, and UGC-NET frameworks for field practitioners. | `HTML` |
+| 🌾 [**bis-standards-indexer**](https://github.com/Rituparno-Majumdar/bis-standards-indexer) | CLI tool to index, search, and manage Bureau of Indian Standards (BIS) references — offline-first for compliance workflows | `Python` |
 | 🎙️ [**voice-reporting-companion**](https://github.com/Rituparno-Majumdar/voice-reporting-companion) | Offline-first voice-to-JSON health reporting tool for ASHA and Anganwadi workers — auto-parses speech into NHM child health forms and stores in IndexedDB. | `HTML` |
 | 📦 [**pds-audit-portal**](https://github.com/Rituparno-Majumdar/pds-audit-portal) | Automated audit engine for India's Public Distribution System — detects duplicate ration cards, allocation shortfalls, and suspicious cancellation hotspots. | `Python` |
 | ⚖️ [**bail-draft-builder**](https://github.com/Rituparno-Majumdar/bail-draft-builder) | Interactive BNSS Section 479 under-trial bail eligibility calculator — computes detention threshold and generates formal, court-ready bail petitions. | `HTML` |
