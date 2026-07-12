@@ -47,16 +47,16 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 <!-- END_SHOWCASE -->
 ## 📦 Daily Builds
 
+<!-- DAILY_BUILDS_START -->
 | Date | Repo | Description | Domain |
 |------|------|-------------|--------|
-<!-- DAILY_BUILDS_START -->
 | 2026-07-12 | [bis-standards-indexer](https://github.com/Rituparno-Majumdar/bis-standards-indexer) | CLI tool to index, search, and manage BIS standards — offline-first | csr |
 <!-- DAILY_BUILDS_END -->
 ## 📋 Daily Gists
 
+<!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
-<!-- DAILY_GISTS_START -->
 <!-- DAILY_GISTS_END -->
 
 
