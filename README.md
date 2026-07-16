@@ -37,6 +37,7 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 | 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions. | `Python` |
 | 💼 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions. | `Python` |
 | 📚 [**sw-parivar**](https://github.com/Rituparno-Majumdar/sw-parivar) | Indian Social Work Knowledge Base — offline-first reference vault of laws, schemes, judgments, and UGC-NET frameworks for field practitioners. | `HTML` |
+| 🌾 [**ngo-field-assistant**](https://github.com/Rituparno-Majumdar/ngo-field-assistant) | Offline-first CLI tool for NGO and CSR field workers — manage beneficiary data, validate entries, and generate reports without internet | `Python` |
 | 🌾 [**csr-grant-tracker**](https://github.com/Rituparno-Majumdar/csr-grant-tracker) | No description provided. | `Python` |
 | 🌾 [**csr-impact-report**](https://github.com/Rituparno-Majumdar/csr-impact-report) | No description provided. | `Python` |
 | 🌾 [**bis-standards-indexer**](https://github.com/Rituparno-Majumdar/bis-standards-indexer) | CLI tool to index, search, and manage Bureau of Indian Standards (BIS) references — offline-first for compliance workflows | `Python` |
