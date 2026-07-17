@@ -47,6 +47,12 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 | 🌿 [**forest-rights-claim**](https://github.com/Rituparno-Majumdar/forest-rights-claim) | Offline-first FRA 2006 land claim mapping tool for tribal communities — trace GPS boundaries on Leaflet and generate official Schedule I Form A PDFs. | `HTML` |
 | 🇮🇳 [**kalki**](https://github.com/Rituparno-Majumdar/kalki) | **Kalki**: India's Open Intelligence Platform — open-source early-warning signals from public data to foresee climate, health, and economic crises. | `Python` |
 | 📊 [**ngo-mis-toolkit**](https://github.com/Rituparno-Majumdar/ngo-mis-toolkit) | CLI toolkit for NGO reporting, logframe management & CSR compliance tracking in India. Generate donor-ready Word reports and validate LFA indicators. | `Python` |
+
+### Other Projects
+
+| Project | Description | Language |
+| :--- | :--- | :---: |
+| 🛠️ [**cbo-capacity-assessment**](https://github.com/Rituparno-Majumdar/cbo-capacity-assessment) | No description provided. | `Python` |
 <!-- END_SHOWCASE -->
 ## 📦 Daily Builds
 
