@@ -52,6 +52,7 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🛠️ [**shabdabodha**](https://github.com/Rituparno-Majumdar/shabdabodha) | No description provided. | `Python` |
 | 🛠️ [**cbo-capacity-assessment**](https://github.com/Rituparno-Majumdar/cbo-capacity-assessment) | No description provided. | `Python` |
 <!-- END_SHOWCASE -->
 ## 📦 Daily Builds
