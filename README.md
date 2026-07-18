@@ -64,6 +64,7 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 | 2026-07-15 | [csr-grant-tracker](https://github.com/Rituparno-Majumdar/csr-grant-tracker) | Zero-dependency CLI for CSR grant compliance, milestone tracking, and Schedule VII reporting | csr |
 | 2026-07-11 | [ngo-field-assistant](https://github.com/Rituparno-Majumdar/ngo-field-assistant) | Offline-first CLI for NGO/CSR field workers — beneficiary management & reporting | csr |
 | 2026-07-17 | [cbo-capacity-assessment](https://github.com/Rituparno-Majumdar/cbo-capacity-assessment) | CLI tool to assess CBO capacity across governance, finance, programmes, HR, advocacy, and infrastructure | csr |
+| 2026-07-18 | [shabdabodha](https://github.com/Rituparno-Majumdar/shabdabodha) | Sanskrit CLI for transliteration, dictionary lookup, and word analysis | Indology |
 <!-- DAILY_BUILDS_END -->
 ## 📋 Daily Gists
 
