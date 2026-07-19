@@ -123,6 +123,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 
 I'm always excited to discuss **low-resource language NLP**, **civic automation tools**, **biodiversity tracking**, or **practical LLM integrations** for social impact.
 
+- 🏠 **Portfolio:** [rituparno-majumdar.github.io](https://rituparno-majumdar.github.io/)
 - 💼 **LinkedIn:** [linkedin.com/in/rituparno](https://www.linkedin.com/in/rituparno)
 - 📧 **Email:** [majumdarrituparno@gmail.com](mailto:majumdarrituparno@gmail.com)
 - 📍 **Base:** Jamshedpur, Jharkhand, India
