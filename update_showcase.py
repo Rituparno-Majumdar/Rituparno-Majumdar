@@ -106,6 +106,30 @@ CURATED_PROJECTS = {
         "emoji": "🛡️",
         "category": "🤖 AI, NLP & LLM Orchestration",
         "description": "Defensive LLM structured extraction validation middleware — guards against prompt injections and repairs truncated JSON responses."
+    },
+    "csr-grant-tracker": {
+        "name": "csr-grant-tracker",
+        "emoji": "🌾",
+        "category": "🌾 Civic Tech, CSR & NGO Tools",
+        "description": "Zero-dependency CLI for CSR grant compliance, milestone tracking, and Schedule VII reporting."
+    },
+    "csr-impact-report": {
+        "name": "csr-impact-report",
+        "emoji": "🌾",
+        "category": "🌾 Civic Tech, CSR & NGO Tools",
+        "description": "CLI tool for CSR grant impact calculation and compliance reporting — generate donor-ready metrics."
+    },
+    "cbo-capacity-assessment": {
+        "name": "cbo-capacity-assessment",
+        "emoji": "🌾",
+        "category": "🌾 Civic Tech, CSR & NGO Tools",
+        "description": "CLI toolkit to assess CBO capacity across governance, finance, programmes, HR, advocacy, and infrastructure metrics."
+    },
+    "shabdabodha": {
+        "name": "shabdabodha",
+        "emoji": "🛠️",
+        "category": "Other Projects",
+        "description": "Sanskrit NLP toolkit for transliteration, multi-dictionary lookup, and morphological word analysis."
     }
 }
 

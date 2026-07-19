@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="auto">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a5f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#818cf8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2dd4bf;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e2e8f0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#94a3b8;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="240" rx="16" fill="url(#bg)"/>
+
+  <!-- Decorative grid dots -->
+  <g opacity="0.08">
+    <circle cx="50" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="150" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="250" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="350" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="450" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="550" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="650" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="750" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="850" cy="50" r="1.5" fill="#fff"/>
+    <circle cx="50" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="150" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="250" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="350" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="450" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="550" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="650" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="750" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="850" cy="120" r="1.5" fill="#fff"/>
+    <circle cx="50" cy="190" r="1.5" fill="#fff"/>
+    <circle cx="150" cy="190" r="1.5" fill="#fff"/>
+    <circle cx="250" cy="190" r="1.5" fill="#fff"/>
+    <circle cx="350" cy="190" r="1.5" fill="#fff"/>
+    <circle cx="450" cy="190" r="1.5" fill="#fff"/>
+    <circle cx="550" cy="190" r="1.5" fill="#fff"/>
+    <circle cx="650" cy="190" r="1.5" fill="#fff"/>
+    <circle cx="750" cy="190" r="1.5" fill="#fff"/>
+    <circle cx="850" cy="190" r="1.5" fill="#fff"/>
+  </g>
+
+  <!-- Accent line -->
+  <rect x="48" y="40" width="4" height="80" rx="2" fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text x="68" y="78" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" letter-spacing="1" fill="url(#nameGrad)" filter="url(#glow)">Rituparno Majumdar</text>
+
+  <!-- Tagline -->
+  <text x="68" y="108" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="#94a3b8" letter-spacing="0.5">
+    <tspan>Building AI that serves the grassroots</tspan>
+  </text>
+
+  <!-- Decorative divider -->
+  <line x1="68" y1="125" x2="250" y2="125" stroke="url(#accent)" stroke-width="1" opacity="0.5"/>
+
+  <!-- Info chips -->
+  <g font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="500">
+    <!-- Chip 1: Location -->
+    <rect x="68" y="148" width="175" height="32" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="82" y="169" fill="#818cf8">📍</text>
+    <text x="102" y="169" fill="#cbd5e1">Jamshedpur, India</text>
+
+    <!-- Chip 2: Role -->
+    <rect x="258" y="148" width="175" height="32" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="272" y="169" fill="#2dd4bf">💼</text>
+    <text x="292" y="169" fill="#cbd5e1">AI Specialist · CSR Manager</text>
+
+    <!-- Chip 3: Languages -->
+    <rect x="448" y="148" width="175" height="32" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="462" y="169" fill="#f472b6">🗣️</text>
+    <text x="482" y="169" fill="#cbd5e1">Bengali · English · Sanskrit</text>
+
+    <!-- Chip 4: Research -->
+    <rect x="638" y="148" width="195" height="32" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <text x="652" y="169" fill="#fbbf24">📖</text>
+    <text x="672" y="169" fill="#cbd5e1">Indology · Bhakti-Sufi</text>
+  </g>
+
+  <!-- Bottom tagline italic -->
+  <text x="68" y="210" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-style="italic" fill="#64748b">
+    <tspan>NLP &#183; CSR Tech &#183; LLM Evaluation &#183; Indic Languages</tspan>
+  </text>
+
+  <!-- GitHub corner decoration -->
+  <g transform="translate(830, 20)" opacity="0.15">
+    <path d="M0 0h40v40L20 20L0 40Z" fill="#fff"/>
+    <path d="M0 40L20 20L40 40Z" fill="none" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>
