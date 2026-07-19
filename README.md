@@ -2,9 +2,26 @@
   <img src="https://raw.githubusercontent.com/Rituparno-Majumdar/Rituparno-Majumdar/main/assets/header.svg" width="100%" alt="Rituparno Majumdar — AI Specialist · CSR Manager · Indologist" />
 </p>
 
+<p align="center"><strong>Building AI that serves the grassroots</strong> &nbsp;·&nbsp; NLP · CSR Tech · LLM Evaluation · Indic Languages</p>
+
 ## 🚀 Bridging AI & Grassroots Impact
 
 I operate at the unique intersection of **Low-Resource Language NLP / LLM Evaluation** and **Field-Level Community Development (CSR/NGOs)**. By day, I design data-driven village development projects for **Tata Steel UISL** through **TRCSC** in Jharkhand. By night, I build AI pipelines, Bengali NLP models, and automated tools that solve real operational bottlenecks for underserved communities.
+
+---
+
+## 🔥 Featured Projects
+
+|  | Project | Description |
+|--|---------|-------------|
+| 🇮🇳 | **[Kalki](https://github.com/Rituparno-Majumdar/kalki)** | India's Open Intelligence Platform — open-source early-warning signals from public data |
+| 🛡️ | **[PromptShield](https://github.com/Rituparno-Majumdar/promptshield)** | Defensive LLM structured extraction validation middleware |
+| 🧠 | **[Obsidian LLM Wiki Kit](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit)** | LLM-powered knowledge base toolkit — build and query interlinked wikis |
+| 📊 | **[Bengali Annotation Quality](https://github.com/Rituparno-Majumdar/bengali-annotation-quality)** | Bengali sentiment annotation calibration with Cohen's Kappa & disagreement analysis |
+| 🤝 | **[SW परिवार](https://github.com/Rituparno-Majumdar/sw-parivar)** | Indian Social Work Knowledge Base — laws, schemes, judgments (offline-first) |
+| ⚡ | **[OpenCode Research Agents](https://github.com/Rituparno-Majumdar/opencode-research-agents)** | Multi-agent research orchestration inside OpenCode |
+
+*Full project catalogue below.*
 
 ---
 
