@@ -26,6 +26,12 @@ Projects are auto-organized by domain from my active repositories.
 | 🧪 [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Annotation quality assessment pipeline calibrating Bengali sentiment datasets with Cohen's Kappa, disagreement analysis, and bias evaluation. | `Python` |
 | 🤖 [**opencode-research-agents**](https://github.com/Rituparno-Majumdar/opencode-research-agents) | A multi-agent research orchestration system running inside OpenCode, using epistemic parallelism to save synthesized findings to Obsidian. | `Shell` |
 
+### 🏷️ Data Annotation & Labeling
+
+| Project | Description | Language |
+| :--- | :--- | :---: |
+| 🏷️ [**annocheck**](https://github.com/Rituparno-Majumdar/annocheck) | Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI. | `Python` |
+
 ### 🌾 Civic Tech, CSR & NGO Tools
 
 | Project | Description | Language |

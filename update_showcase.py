@@ -130,6 +130,12 @@ CURATED_PROJECTS = {
         "emoji": "🛠️",
         "category": "Other Projects",
         "description": "Sanskrit NLP toolkit for transliteration, multi-dictionary lookup, and morphological word analysis."
+    },
+    "annocheck": {
+        "name": "annocheck",
+        "emoji": "🏷️",
+        "category": "🏷️ Data Annotation & Labeling",
+        "description": "Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI."
     }
 }
 
