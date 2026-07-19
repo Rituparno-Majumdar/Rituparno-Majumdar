@@ -141,9 +141,21 @@ def get_repo_metadata(repo):
     if "ngo" in text or "grant" in text or "civic" in text or "kalki" in text or "social-work" in text or "csr" in text or "compliance" in text:
         category = "🌾 Civic Tech, CSR & NGO Tools"
         emoji = "🌾"
-    elif "agent" in text or "wiki" in text or "llm" in text or "bengali" in text or "nlp" in text or "ai" in text or "prompt" in text or "model" in text:
+    elif "agent" in text or "wiki" in text or "llm" in text or "bengali" in text or "nlp" in text or "ai" in text or "prompt" in text or "model" in text or "mcp" in text or "skill" in text:
         category = "🤖 AI, NLP & LLM Orchestration"
         emoji = "🤖"
+    elif "annotation" in text or "label" in text or "coco" in text or "yolo" in text or "dataset" in text or "augment" in text or "synthetic" in text:
+        category = "🏷️ Data Annotation & Labeling"
+        emoji = "🏷️"
+    elif "document" in text or "pdf" in text or "rag" in text or "chunk" in text or "converter" in text or "extract" in text:
+        category = "📄 Document Processing & RAG"
+        emoji = "📄"
+    elif "cli" in text or "terminal" in text or "productivity" in text or "workflow" in text or "automation" in text or "monitor" in text:
+        category = "🛠️ CLI Tools & Productivity"
+        emoji = "🛠️"
+    elif "code-quality" in text or "security" in text or "lint" in text or "over-engineering" in text or "yagni" in text or "code-review" in text or "dependency" in text:
+        category = "✅ Code Quality & Security"
+        emoji = "✅"
     else:
         category = "Other Projects"
         emoji = "🛠️"
@@ -187,6 +199,10 @@ def generate_showcase(repos, username):
     # Define desired category ordering
     category_order = [
         "🤖 AI, NLP & LLM Orchestration",
+        "🏷️ Data Annotation & Labeling",
+        "📄 Document Processing & RAG",
+        "🛠️ CLI Tools & Productivity",
+        "✅ Code Quality & Security",
         "🌾 Civic Tech, CSR & NGO Tools",
         "Other Projects"
     ]

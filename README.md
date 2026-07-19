@@ -55,18 +55,6 @@ I operate at the unique intersection of **Low-Resource Language NLP / LLM Evalua
 | 🛠️ [**shabdabodha**](https://github.com/Rituparno-Majumdar/shabdabodha) | No description provided. | `Python` |
 | 🛠️ [**cbo-capacity-assessment**](https://github.com/Rituparno-Majumdar/cbo-capacity-assessment) | No description provided. | `Python` |
 <!-- END_SHOWCASE -->
-## 📦 Daily Builds
-
-<!-- DAILY_BUILDS_START -->
-| Date | Repo | Description | Domain |
-|------|------|-------------|--------|
-| 2026-07-12 | [bis-standards-indexer](https://github.com/Rituparno-Majumdar/bis-standards-indexer) | CLI tool to index, search, and manage BIS standards — offline-first | csr |
-| 2026-07-14 | [csr-impact-report](https://github.com/Rituparno-Majumdar/csr-impact-report) | CLI tool for CSR grant impact calculation and compliance reporting | csr |
-| 2026-07-15 | [csr-grant-tracker](https://github.com/Rituparno-Majumdar/csr-grant-tracker) | Zero-dependency CLI for CSR grant compliance, milestone tracking, and Schedule VII reporting | csr |
-| 2026-07-11 | [ngo-field-assistant](https://github.com/Rituparno-Majumdar/ngo-field-assistant) | Offline-first CLI for NGO/CSR field workers — beneficiary management & reporting | csr |
-| 2026-07-17 | [cbo-capacity-assessment](https://github.com/Rituparno-Majumdar/cbo-capacity-assessment) | CLI tool to assess CBO capacity across governance, finance, programmes, HR, advocacy, and infrastructure | csr |
-| 2026-07-18 | [shabdabodha](https://github.com/Rituparno-Majumdar/shabdabodha) | Sanskrit CLI for transliteration, dictionary lookup, and word analysis | Indology |
-<!-- DAILY_BUILDS_END -->
 ## 📋 Daily Gists
 
 <!-- DAILY_GISTS_START -->
