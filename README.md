@@ -61,6 +61,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-07-19 | [Multi-Agent Research with OpenCode](guides/opencode-research-agents-guide.md) | Launch parallel research agents inside OpenCode — epistemic parallelism for robust synthesis |
 <!-- DAILY_GISTS_END -->
 
 ---
