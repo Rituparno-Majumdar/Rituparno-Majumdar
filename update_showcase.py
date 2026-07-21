@@ -142,6 +142,12 @@ CURATED_PROJECTS = {
         "emoji": "📊",
         "category": "🏷️ Data Annotation & Labeling",
         "description": "COCO dataset statistics from your terminal — inspect annotation files: class distribution, bbox stats, annotation density, and more."
+    },
+    "tokensnap": {
+        "name": "tokensnap",
+        "emoji": "⚡",
+        "category": "🛠️ CLI Tools & Productivity",
+        "description": "Estimate LLM API costs from your terminal — pipe a prompt, get cost estimates across 12+ providers in one command."
     }
 }
 

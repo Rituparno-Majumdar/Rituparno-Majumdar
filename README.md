@@ -50,6 +50,12 @@ Projects are auto-organized by domain from my active repositories.
 | 📊 [**cocostat**](https://github.com/Rituparno-Majumdar/cocostat) | COCO dataset statistics from your terminal — inspect annotation files: class distribution, bbox stats, annotation density, and more. | `Python` |
 | 🏷️ [**annocheck**](https://github.com/Rituparno-Majumdar/annocheck) | Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI. | `Python` |
 
+### 🛠️ CLI Tools & Productivity
+
+| Project | Description | Language |
+| :--- | :--- | :---: |
+| ⚡ [**tokensnap**](https://github.com/Rituparno-Majumdar/tokensnap) | Estimate LLM API costs from your terminal — pipe a prompt, get cost estimates across 12+ providers in one command. | `Python` |
+
 ### 🌾 Civic Tech, CSR & NGO Tools
 
 | Project | Description | Language |
