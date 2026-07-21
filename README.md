@@ -35,11 +35,11 @@ Projects are auto-organized by domain from my active repositories.
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
+| 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🛡️ [**promptshield**](https://github.com/Rituparno-Majumdar/promptshield) | Defensive LLM structured extraction validation middleware — guards against prompt injections and repairs truncated JSON responses. | `Python` |
 | 🧠 [**markdownmind**](https://github.com/Rituparno-Majumdar/markdownmind) | Autonomous knowledge graph synthesizer for Markdown vaults — structures links, clusters topics, detects orphan files, and generates summaries. | `Python` |
 | 📊 [**kappabench**](https://github.com/Rituparno-Majumdar/kappabench) | Agreement and consensus benchmarking framework for LLM-as-a-judge classifiers — calculates Cohen's Kappa, Fleiss' Kappa, and Krippendorff's Alpha. | `Python` |
 | 🎨 [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | **SocialCraft AI**: Zero-install client-side AI tool generating platform-optimized posts in 13 Indian regional languages using the Gemini API. | `HTML` |
-| 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🧪 [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Annotation quality assessment pipeline calibrating Bengali sentiment datasets with Cohen's Kappa, disagreement analysis, and bias evaluation. | `Python` |
 | 🤖 [**opencode-research-agents**](https://github.com/Rituparno-Majumdar/opencode-research-agents) | A multi-agent research orchestration system running inside OpenCode, using epistemic parallelism to save synthesized findings to Obsidian. | `Shell` |
 
