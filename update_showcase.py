@@ -137,6 +137,12 @@ CURATED_PROJECTS = {
         "category": "🏷️ Data Annotation & Labeling",
         "description": "Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI."
     },
+    "coco-summary": {
+        "name": "coco-summary",
+        "emoji": "📊",
+        "category": "🏷️ Data Annotation & Labeling",
+        "description": "Zero-dependency CLI to inspect COCO annotation JSON files — class distribution, bbox stats, and quality flags in one command."
+    },
     "cocostat": {
         "name": "cocostat",
         "emoji": "📊",
