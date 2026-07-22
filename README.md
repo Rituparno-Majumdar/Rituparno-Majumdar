@@ -97,6 +97,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 | 2026-07-19 | [annocheck Quick Guide](guides/annocheck-guide.md) | Validate YOLO CV datasets in one command — catch corrupted labels before training |
 | 2026-07-20 | [cocostat Quick Guide](guides/cocostat-guide.md) | COCO dataset statistics from your terminal — inspect annotation files instantly |
 | 2026-07-21 | [TokenSnap Quick Guide](guides/tokensnap-guide.md) | Estimate LLM API costs from your terminal — pipe any prompt |
+| 2026-07-22 | [COCO Summary Quick Guide](guides/coco-summary-guide.md) | Inspect COCO annotation datasets from terminal — class distribution and quality flags |
 <!-- DAILY_GISTS_END -->
 
 ---
