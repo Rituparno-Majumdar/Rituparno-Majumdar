@@ -51,6 +51,12 @@ Projects are auto-organized by domain from my active repositories.
 | 📊 [**cocostat**](https://github.com/Rituparno-Majumdar/cocostat) | COCO dataset statistics from your terminal — inspect annotation files: class distribution, bbox stats, annotation density, and more. | `Python` |
 | 🏷️ [**annocheck**](https://github.com/Rituparno-Majumdar/annocheck) | Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI. | `Python` |
 
+### 📄 Document Processing & RAG
+
+| Project | Description | Language |
+| :--- | :--- | :---: |
+| 📄 [**docstruct**](https://github.com/Rituparno-Majumdar/docstruct) | Validate Markdown heading structure — detects skipped levels, missing H1s, and structural inconsistencies in documentation. | `Python` |
+
 ### 🛠️ CLI Tools & Productivity
 
 | Project | Description | Language |
@@ -98,6 +104,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 | 2026-07-20 | [cocostat Quick Guide](guides/cocostat-guide.md) | COCO dataset statistics from your terminal — inspect annotation files instantly |
 | 2026-07-21 | [TokenSnap Quick Guide](guides/tokensnap-guide.md) | Estimate LLM API costs from your terminal — pipe any prompt |
 | 2026-07-22 | [COCO Summary Quick Guide](guides/coco-summary-guide.md) | Inspect COCO annotation datasets from terminal — class distribution and quality flags |
+| 2026-07-23 | [docstruct Quick Guide](guides/docstruct-guide.md) | Validate Markdown heading structure — catch skipped levels and missing H1s |
 <!-- DAILY_GISTS_END -->
 
 ---

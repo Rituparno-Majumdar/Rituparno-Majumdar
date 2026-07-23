@@ -154,6 +154,12 @@ CURATED_PROJECTS = {
         "emoji": "⚡",
         "category": "🛠️ CLI Tools & Productivity",
         "description": "Estimate LLM API costs from your terminal — pipe a prompt, get cost estimates across 12+ providers in one command."
+    },
+    "docstruct": {
+        "name": "docstruct",
+        "emoji": "📄",
+        "category": "📄 Document Processing & RAG",
+        "description": "Validate Markdown heading structure — detects skipped levels, missing H1s, and structural inconsistencies in documentation."
     }
 }
 
