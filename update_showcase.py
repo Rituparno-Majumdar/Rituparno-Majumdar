@@ -160,6 +160,12 @@ CURATED_PROJECTS = {
         "emoji": "📄",
         "category": "📄 Document Processing & RAG",
         "description": "Validate Markdown heading structure — detects skipped levels, missing H1s, and structural inconsistencies in documentation."
+    },
+    "mcpschema": {
+        "name": "mcpschema",
+        "emoji": "🤖",
+        "category": "🤖 AI, NLP & LLM Orchestration",
+        "description": "Validate MCP (Model Context Protocol) tool JSON Schema definitions — catch missing fields, invalid types, and silent failures before your AI agent calls them."
     }
 }
 

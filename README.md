@@ -35,6 +35,7 @@ Projects are auto-organized by domain from my active repositories.
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
+| 🤖 [**mcpschema**](https://github.com/Rituparno-Majumdar/mcpschema) | Validate MCP (Model Context Protocol) tool JSON Schema definitions — catch missing fields, invalid types, and silent failures before your AI agent calls them. | `Mixed` |
 | 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🛡️ [**promptshield**](https://github.com/Rituparno-Majumdar/promptshield) | Defensive LLM structured extraction validation middleware — guards against prompt injections and repairs truncated JSON responses. | `Python` |
 | 🧠 [**markdownmind**](https://github.com/Rituparno-Majumdar/markdownmind) | Autonomous knowledge graph synthesizer for Markdown vaults — structures links, clusters topics, detects orphan files, and generates summaries. | `Python` |
@@ -105,6 +106,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 | 2026-07-21 | [TokenSnap Quick Guide](guides/tokensnap-guide.md) | Estimate LLM API costs from your terminal — pipe any prompt |
 | 2026-07-22 | [COCO Summary Quick Guide](guides/coco-summary-guide.md) | Inspect COCO annotation datasets from terminal — class distribution and quality flags |
 | 2026-07-23 | [docstruct Quick Guide](guides/docstruct-guide.md) | Validate Markdown heading structure — catch skipped levels and missing H1s |
+| 2026-07-23 | [mcpschema Quick Guide](guides/mcpschema-guide.md) | Validate MCP tool JSON Schema — catch missing fields before your agent calls them |
 <!-- DAILY_GISTS_END -->
 
 ---
