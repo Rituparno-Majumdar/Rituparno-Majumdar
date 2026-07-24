@@ -48,6 +48,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🏷️ [**labcheck**](https://github.com/Rituparno-Majumdar/labcheck) | Validate text annotation datasets (CSV/JSONL) for label conflicts, empty values, and quality issues — one command, zero config. | `Mixed` |
 | 📊 [**coco-summary**](https://github.com/Rituparno-Majumdar/coco-summary) | Zero-dependency CLI to inspect COCO annotation JSON files — class distribution, bbox stats, and quality flags in one command. | `Python` |
 | 📊 [**cocostat**](https://github.com/Rituparno-Majumdar/cocostat) | COCO dataset statistics from your terminal — inspect annotation files: class distribution, bbox stats, annotation density, and more. | `Python` |
 | 🏷️ [**annocheck**](https://github.com/Rituparno-Majumdar/annocheck) | Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI. | `Python` |
@@ -100,6 +101,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-07-24 | [labcheck Quick Guide](guides/labcheck-guide.md) | Validate text annotation datasets — catch label conflicts, empty values, and class imbalance |
 | 2026-07-19 | [Multi-Agent Research with OpenCode](guides/opencode-research-agents-guide.md) | Launch parallel research agents inside OpenCode — epistemic parallelism for robust synthesis |
 | 2026-07-19 | [annocheck Quick Guide](guides/annocheck-guide.md) | Validate YOLO CV datasets in one command — catch corrupted labels before training |
 | 2026-07-20 | [cocostat Quick Guide](guides/cocostat-guide.md) | COCO dataset statistics from your terminal — inspect annotation files instantly |

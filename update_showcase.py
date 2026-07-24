@@ -166,6 +166,12 @@ CURATED_PROJECTS = {
         "emoji": "🤖",
         "category": "🤖 AI, NLP & LLM Orchestration",
         "description": "Validate MCP (Model Context Protocol) tool JSON Schema definitions — catch missing fields, invalid types, and silent failures before your AI agent calls them."
+    },
+    "labcheck": {
+        "name": "labcheck",
+        "emoji": "🏷️",
+        "category": "🏷️ Data Annotation & Labeling",
+        "description": "Validate text annotation datasets (CSV/JSONL) for label conflicts, empty values, and quality issues — one command, zero config."
     }
 }
 
