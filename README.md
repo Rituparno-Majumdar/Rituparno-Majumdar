@@ -48,7 +48,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
-| 🏷️ [**labcheck**](https://github.com/Rituparno-Majumdar/labcheck) | Validate text annotation datasets (CSV/JSONL) for label conflicts, empty values, and quality issues — one command, zero config. | `Mixed` |
+| 🏷️ [**labcheck**](https://github.com/Rituparno-Majumdar/labcheck) | Validate text annotation datasets (CSV/JSONL) for label conflicts, empty values, and quality issues — one command, zero config. | `Python` |
 | 📊 [**coco-summary**](https://github.com/Rituparno-Majumdar/coco-summary) | Zero-dependency CLI to inspect COCO annotation JSON files — class distribution, bbox stats, and quality flags in one command. | `Python` |
 | 📊 [**cocostat**](https://github.com/Rituparno-Majumdar/cocostat) | COCO dataset statistics from your terminal — inspect annotation files: class distribution, bbox stats, annotation density, and more. | `Python` |
 | 🏷️ [**annocheck**](https://github.com/Rituparno-Majumdar/annocheck) | Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI. | `Python` |
