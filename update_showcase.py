@@ -172,6 +172,12 @@ CURATED_PROJECTS = {
         "emoji": "🏷️",
         "category": "🏷️ Data Annotation & Labeling",
         "description": "Validate text annotation datasets (CSV/JSONL) for label conflicts, empty values, and quality issues — one command, zero config."
+    },
+    "linkrot": {
+        "name": "linkrot",
+        "emoji": "📄",
+        "category": "📄 Document Processing & RAG",
+        "description": "Detect broken internal Markdown links — scan your docs for dead file references and missing section anchors."
     }
 }
 
