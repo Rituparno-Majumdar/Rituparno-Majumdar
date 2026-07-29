@@ -67,6 +67,12 @@ Projects are auto-organized by domain from my active repositories.
 | :--- | :--- | :---: |
 | ⚡ [**tokensnap**](https://github.com/Rituparno-Majumdar/tokensnap) | Estimate LLM API costs from your terminal — pipe a prompt, get cost estimates across 12+ providers in one command. | `Python` |
 
+### ✅ Code Quality & Security
+
+| Project | Description | Language |
+| :--- | :--- | :---: |
+| ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files | `Python` |
+
 ### 🌾 Civic Tech, CSR & NGO Tools
 
 | Project | Description | Language |
