@@ -97,6 +97,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🛠️ [**tablecheck**](https://github.com/Rituparno-Majumdar/tablecheck) | Validate Markdown table structure — detect malformed tables, broken alignment, and inconsistent columns | `Python` |
 | 🛠️ [**shabdabodha**](https://github.com/Rituparno-Majumdar/shabdabodha) | Sanskrit NLP toolkit for transliteration, multi-dictionary lookup, and morphological word analysis. | `Python` |
 <!-- END_SHOWCASE -->
 
