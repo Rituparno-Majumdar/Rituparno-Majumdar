@@ -35,6 +35,7 @@ Projects are auto-organized by domain from my active repositories.
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
+| 🤖 [**wikicheck-test-create**](https://github.com/Rituparno-Majumdar/wikicheck-test-create) | scope test | `Mixed` |
 | 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🤖 [**mcphealth**](https://github.com/Rituparno-Majumdar/mcphealth) | No description provided. | `Python` |
 | 🤖 [**mcpschema**](https://github.com/Rituparno-Majumdar/mcpschema) | Validate MCP (Model Context Protocol) tool JSON Schema definitions — catch missing fields, invalid types, and silent failures before your AI agent calls them. | `Python` |
@@ -58,6 +59,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 📄 [**wikicheck**](https://github.com/Rituparno-Majumdar/wikicheck) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI. | `Mixed` |
 | 📄 [**linkrot**](https://github.com/Rituparno-Majumdar/linkrot) | Detect broken internal Markdown links — scan your docs for dead file references and missing section anchors. | `Python` |
 | 📄 [**docstruct**](https://github.com/Rituparno-Majumdar/docstruct) | Validate Markdown heading structure — detects skipped levels, missing H1s, and structural inconsistencies in documentation. | `Python` |
 
@@ -110,6 +112,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-03 | [wikicheck Quick Guide](guides/wikicheck-guide.md) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, and orphan notes |
 | 2026-07-28 | [linkrot Quick Guide](guides/linkrot-guide.md) | Detect broken internal Markdown links — find dead file references and missing section anchors |
 | 2026-07-24 | [labcheck Quick Guide](guides/labcheck-guide.md) | Validate text annotation datasets — catch label conflicts, empty values, and class imbalance |
 | 2026-07-19 | [Multi-Agent Research with OpenCode](guides/opencode-research-agents-guide.md) | Launch parallel research agents inside OpenCode — epistemic parallelism for robust synthesis |

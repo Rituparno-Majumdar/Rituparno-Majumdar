@@ -178,6 +178,12 @@ CURATED_PROJECTS = {
         "emoji": "📄",
         "category": "📄 Document Processing & RAG",
         "description": "Detect broken internal Markdown links — scan your docs for dead file references and missing section anchors."
+    },
+    "wikicheck": {
+        "name": "wikicheck",
+        "emoji": "📄",
+        "category": "📄 Document Processing & RAG",
+        "description": "Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI."
     }
 }
 
