@@ -59,7 +59,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
-| 📄 [**wikicheck**](https://github.com/Rituparno-Majumdar/wikicheck) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI. | `Mixed` |
+| 📄 [**wikicheck**](https://github.com/Rituparno-Majumdar/wikicheck) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI. | `Python` |
 | 📄 [**linkrot**](https://github.com/Rituparno-Majumdar/linkrot) | Detect broken internal Markdown links — scan your docs for dead file references and missing section anchors. | `Python` |
 | 📄 [**docstruct**](https://github.com/Rituparno-Majumdar/docstruct) | Validate Markdown heading structure — detects skipped levels, missing H1s, and structural inconsistencies in documentation. | `Python` |
 
