@@ -184,6 +184,12 @@ CURATED_PROJECTS = {
         "emoji": "📄",
         "category": "📄 Document Processing & RAG",
         "description": "Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI."
+    },
+    "skillcheck": {
+        "name": "skillcheck",
+        "emoji": "🤖",
+        "category": "🤖 AI, NLP & LLM Orchestration",
+        "description": "Validate Agent Skills (SKILL.md) directories — catch missing fields, malformed frontmatter, and broken file references before your agent silently loses a skill."
     }
 }
 
