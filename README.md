@@ -51,6 +51,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🔀 [**splitcheck**](https://github.com/Rituparno-Majumdar/splitcheck) | Detect data leakage (shared samples) across ML dataset split files — flag rows that appear in both train and test before they inflate your evaluation metrics. | `Python` |
 | 🏷️ [**labcheck**](https://github.com/Rituparno-Majumdar/labcheck) | Validate text annotation datasets (CSV/JSONL) for label conflicts, empty values, and quality issues — one command, zero config. | `Python` |
 | 📊 [**coco-summary**](https://github.com/Rituparno-Majumdar/coco-summary) | Zero-dependency CLI to inspect COCO annotation JSON files — class distribution, bbox stats, and quality flags in one command. | `Python` |
 | 📊 [**cocostat**](https://github.com/Rituparno-Majumdar/cocostat) | COCO dataset statistics from your terminal — inspect annotation files: class distribution, bbox stats, annotation density, and more. | `Python` |
@@ -113,6 +114,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-09 | [splitcheck Quick Guide](guides/splitcheck-guide.md) | Detect data leakage across ML dataset split files — flag shared rows before they inflate evaluation metrics |
 | 2026-08-08 | [skillcheck Quick Guide](guides/skillcheck-guide.md) | Validate Agent Skills (SKILL.md) directories — catch missing fields, broken frontmatter, and broken file references |
 | 2026-08-03 | [wikicheck Quick Guide](guides/wikicheck-guide.md) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, and orphan notes |
 | 2026-07-28 | [linkrot Quick Guide](guides/linkrot-guide.md) | Detect broken internal Markdown links — find dead file references and missing section anchors |

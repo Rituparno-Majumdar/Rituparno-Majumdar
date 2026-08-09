@@ -190,6 +190,12 @@ CURATED_PROJECTS = {
         "emoji": "🤖",
         "category": "🤖 AI, NLP & LLM Orchestration",
         "description": "Validate Agent Skills (SKILL.md) directories — catch missing fields, malformed frontmatter, and broken file references before your agent silently loses a skill."
+    },
+    "splitcheck": {
+        "name": "splitcheck",
+        "emoji": "🔀",
+        "category": "🏷️ Data Annotation & Labeling",
+        "description": "Detect data leakage (shared samples) across ML dataset split files — flag rows that appear in both train and test before they inflate your evaluation metrics."
     }
 }
 
