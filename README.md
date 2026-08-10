@@ -35,6 +35,7 @@ Projects are auto-organized by domain from my active repositories.
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
+| 🤖 [**mcpconfig**](https://github.com/Rituparno-Majumdar/mcpconfig) | Validate MCP client configuration files (.mcp.json, claude_desktop_config.json, opencode mcp: blocks) — catch the structural mistakes that silently break MCP servers. Zero dependencies. | `Python` |
 | 🤖 [**skillcheck**](https://github.com/Rituparno-Majumdar/skillcheck) | Validate Agent Skills (SKILL.md) directories — catch missing fields, malformed frontmatter, and broken file references before your agent silently loses a skill. | `Python` |
 | 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🤖 [**wikicheck-test-create**](https://github.com/Rituparno-Majumdar/wikicheck-test-create) | scope test | `Mixed` |
@@ -114,6 +115,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-10 | [mcpconfig Quick Guide](guides/mcpconfig-guide.md) | Validate MCP client configuration files — catch the structural mistakes that silently break your agent's tools |
 | 2026-08-09 | [splitcheck Quick Guide](guides/splitcheck-guide.md) | Detect data leakage across ML dataset split files — flag shared rows before they inflate evaluation metrics |
 | 2026-08-08 | [skillcheck Quick Guide](guides/skillcheck-guide.md) | Validate Agent Skills (SKILL.md) directories — catch missing fields, broken frontmatter, and broken file references |
 | 2026-08-03 | [wikicheck Quick Guide](guides/wikicheck-guide.md) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, and orphan notes |

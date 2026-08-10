@@ -196,6 +196,12 @@ CURATED_PROJECTS = {
         "emoji": "🔀",
         "category": "🏷️ Data Annotation & Labeling",
         "description": "Detect data leakage (shared samples) across ML dataset split files — flag rows that appear in both train and test before they inflate your evaluation metrics."
+    },
+    "mcpconfig": {
+        "name": "mcpconfig",
+        "emoji": "🤖",
+        "category": "🤖 AI, NLP & LLM Orchestration",
+        "description": "Validate MCP client configuration files (.mcp.json, claude_desktop_config.json, opencode mcp: blocks) — catch the structural mistakes that silently break MCP servers. Zero dependencies."
     }
 }
 
