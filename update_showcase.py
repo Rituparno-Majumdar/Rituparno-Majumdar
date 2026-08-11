@@ -202,6 +202,12 @@ CURATED_PROJECTS = {
         "emoji": "🤖",
         "category": "🤖 AI, NLP & LLM Orchestration",
         "description": "Validate MCP client configuration files (.mcp.json, claude_desktop_config.json, opencode mcp: blocks) — catch the structural mistakes that silently break MCP servers. Zero dependencies."
+    },
+    "fencecheck": {
+        "name": "fencecheck",
+        "emoji": "🔲",
+        "category": "📄 Document Processing & RAG",
+        "description": "Detect unclosed Markdown code fences (``` and ~~~) — catch broken code blocks that silently swallow the rest of your document. Zero dependencies."
     }
 }
 

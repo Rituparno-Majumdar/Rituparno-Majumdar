@@ -62,6 +62,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🔲 [**fencecheck**](https://github.com/Rituparno-Majumdar/fencecheck) | Detect unclosed Markdown code fences (``` and ~~~) — catch broken code blocks that silently swallow the rest of your document. Zero dependencies. | `Python` |
 | 📄 [**wikicheck**](https://github.com/Rituparno-Majumdar/wikicheck) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI. | `Python` |
 | 📄 [**linkrot**](https://github.com/Rituparno-Majumdar/linkrot) | Detect broken internal Markdown links — scan your docs for dead file references and missing section anchors. | `Python` |
 | 📄 [**docstruct**](https://github.com/Rituparno-Majumdar/docstruct) | Validate Markdown heading structure — detects skipped levels, missing H1s, and structural inconsistencies in documentation. | `Python` |
@@ -116,6 +117,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 | Date | Title | Description |
 |------|-------|-------------|
 | 2026-08-10 | [mcpconfig Quick Guide](guides/mcpconfig-guide.md) | Validate MCP client configuration files — catch the structural mistakes that silently break your agent's tools |
+| 2026-08-11 | [fencecheck Quick Guide](guides/fencecheck-guide.md) | Detect unclosed Markdown code fences — catch broken ``` and ~~~ blocks that silently swallow the rest of your document |
 | 2026-08-09 | [splitcheck Quick Guide](guides/splitcheck-guide.md) | Detect data leakage across ML dataset split files — flag shared rows before they inflate evaluation metrics |
 | 2026-08-08 | [skillcheck Quick Guide](guides/skillcheck-guide.md) | Validate Agent Skills (SKILL.md) directories — catch missing fields, broken frontmatter, and broken file references |
 | 2026-08-03 | [wikicheck Quick Guide](guides/wikicheck-guide.md) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, and orphan notes |
