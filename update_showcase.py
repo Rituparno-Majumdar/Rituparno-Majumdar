@@ -208,6 +208,12 @@ CURATED_PROJECTS = {
         "emoji": "🔲",
         "category": "📄 Document Processing & RAG",
         "description": "Detect unclosed Markdown code fences (``` and ~~~) — catch broken code blocks that silently swallow the rest of your document. Zero dependencies."
+    },
+    "chunkviz": {
+        "name": "chunkviz",
+        "emoji": "📦",
+        "category": "📄 Document Processing & RAG",
+        "description": "Visualize recursive character text splitting from your terminal — see chunk boundaries, overlap regions, and size distribution for RAG optimization."
     }
 }
 

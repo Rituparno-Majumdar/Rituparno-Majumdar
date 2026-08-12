@@ -62,6 +62,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 📦 [**chunkviz**](https://github.com/Rituparno-Majumdar/chunkviz) | Visualize recursive character text splitting from your terminal — see chunk boundaries, overlap regions, and size distribution for RAG optimization. | `Mixed` |
 | 🔲 [**fencecheck**](https://github.com/Rituparno-Majumdar/fencecheck) | Detect unclosed Markdown code fences (``` and ~~~) — catch broken code blocks that silently swallow the rest of your document. Zero dependencies. | `Python` |
 | 📄 [**wikicheck**](https://github.com/Rituparno-Majumdar/wikicheck) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI. | `Python` |
 | 📄 [**linkrot**](https://github.com/Rituparno-Majumdar/linkrot) | Detect broken internal Markdown links — scan your docs for dead file references and missing section anchors. | `Python` |
@@ -116,6 +117,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-12 | [chunkviz Quick Guide](guides/chunkviz-guide.md) | Visualize recursive character text splitting — see chunk boundaries, overlap regions, and size distribution before you tune your RAG pipeline |
 | 2026-08-10 | [mcpconfig Quick Guide](guides/mcpconfig-guide.md) | Validate MCP client configuration files — catch the structural mistakes that silently break your agent's tools |
 | 2026-08-11 | [fencecheck Quick Guide](guides/fencecheck-guide.md) | Detect unclosed Markdown code fences — catch broken ``` and ~~~ blocks that silently swallow the rest of your document |
 | 2026-08-09 | [splitcheck Quick Guide](guides/splitcheck-guide.md) | Detect data leakage across ML dataset split files — flag shared rows before they inflate evaluation metrics |
