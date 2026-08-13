@@ -78,6 +78,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| ✅ [**todolint**](https://github.com/Rituparno-Majumdar/todolint) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies. | `Mixed` |
 | ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files | `Python` |
 
 ### 🌾 Civic Tech, CSR & NGO Tools
@@ -117,6 +118,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-13 | [todolint Quick Guide](guides/todolint-guide.md) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — catch unfinished work before it ships, CI-ready blocker detection |
 | 2026-08-12 | [chunkviz Quick Guide](guides/chunkviz-guide.md) | Visualize recursive character text splitting — see chunk boundaries, overlap regions, and size distribution before you tune your RAG pipeline |
 | 2026-08-10 | [mcpconfig Quick Guide](guides/mcpconfig-guide.md) | Validate MCP client configuration files — catch the structural mistakes that silently break your agent's tools |
 | 2026-08-11 | [fencecheck Quick Guide](guides/fencecheck-guide.md) | Detect unclosed Markdown code fences — catch broken ``` and ~~~ blocks that silently swallow the rest of your document |

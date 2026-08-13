@@ -214,6 +214,12 @@ CURATED_PROJECTS = {
         "emoji": "📦",
         "category": "📄 Document Processing & RAG",
         "description": "Visualize recursive character text splitting from your terminal — see chunk boundaries, overlap regions, and size distribution for RAG optimization."
+    },
+    "todolint": {
+        "name": "todolint",
+        "emoji": "✅",
+        "category": "✅ Code Quality & Security",
+        "description": "Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies."
     }
 }
 
