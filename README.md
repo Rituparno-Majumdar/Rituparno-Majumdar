@@ -78,7 +78,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
-| ✅ [**todolint**](https://github.com/Rituparno-Majumdar/todolint) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies. | `Mixed` |
+| ✅ [**todolint**](https://github.com/Rituparno-Majumdar/todolint) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies. | `Python` |
 | ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files | `Python` |
 
 ### 🌾 Civic Tech, CSR & NGO Tools
