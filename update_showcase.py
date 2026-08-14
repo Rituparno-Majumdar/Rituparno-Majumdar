@@ -220,6 +220,12 @@ CURATED_PROJECTS = {
         "emoji": "✅",
         "category": "✅ Code Quality & Security",
         "description": "Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies."
+    },
+    "dupcheck": {
+        "name": "dupcheck",
+        "emoji": "🔁",
+        "category": "✅ Code Quality & Security",
+        "description": "Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt. Zero dependencies."
     }
 }
 
