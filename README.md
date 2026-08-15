@@ -78,6 +78,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🌪️ [**cccheck**](https://github.com/Rituparno-Majumdar/cccheck) | Flag high-cyclomatic-complexity functions in Python codebases — catch God functions and untestable spaghetti before AI-generated code ships. Zero dependencies. | `Python` |
 | 🔁 [**dupcheck**](https://github.com/Rituparno-Majumdar/dupcheck) | Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt. Zero dependencies. | `Python` |
 | ✅ [**todolint**](https://github.com/Rituparno-Majumdar/todolint) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies. | `Python` |
 | ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files | `Python` |
@@ -119,6 +120,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-15 | [cccheck Quick Guide](guides/cccheck-guide.md) | Flag high-cyclomatic-complexity functions in Python — catch God functions and untestable spaghetti before AI-generated code ships |
 | 2026-08-14 | [dupcheck Quick Guide](guides/dupcheck-guide.md) | Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt |
 | 2026-08-13 | [todolint Quick Guide](guides/todolint-guide.md) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — catch unfinished work before it ships, CI-ready blocker detection |
 | 2026-08-12 | [chunkviz Quick Guide](guides/chunkviz-guide.md) | Visualize recursive character text splitting — see chunk boundaries, overlap regions, and size distribution before you tune your RAG pipeline |

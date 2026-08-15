@@ -226,6 +226,12 @@ CURATED_PROJECTS = {
         "emoji": "🔁",
         "category": "✅ Code Quality & Security",
         "description": "Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt. Zero dependencies."
+    },
+    "cccheck": {
+        "name": "cccheck",
+        "emoji": "🌪️",
+        "category": "✅ Code Quality & Security",
+        "description": "Flag high-cyclomatic-complexity functions in Python codebases — catch God functions and untestable spaghetti before AI-generated code ships. Zero dependencies."
     }
 }
 
