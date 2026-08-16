@@ -232,6 +232,12 @@ CURATED_PROJECTS = {
         "emoji": "🌪️",
         "category": "✅ Code Quality & Security",
         "description": "Flag high-cyclomatic-complexity functions in Python codebases — catch God functions and untestable spaghetti before AI-generated code ships. Zero dependencies."
+    },
+    "shadowcheck": {
+        "name": "shadowcheck",
+        "emoji": "👥",
+        "category": "✅ Code Quality & Security",
+        "description": "Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies."
     }
 }
 
