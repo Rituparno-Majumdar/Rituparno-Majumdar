@@ -108,6 +108,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🛠️ [**timeofbirth**](https://github.com/Rituparno-Majumdar/timeofbirth) | KP (Krishnamurti Paddhati) birth time rectification — reverse-engineer the true time of birth from life events, right in your browser. Single HTML file, offline, private, global. | `HTML` |
 | 🛠️ [**tablecheck**](https://github.com/Rituparno-Majumdar/tablecheck) | Validate Markdown table structure — detect malformed tables, broken alignment, and inconsistent columns | `Python` |
 | 🛠️ [**shabdabodha**](https://github.com/Rituparno-Majumdar/shabdabodha) | Sanskrit NLP toolkit for transliteration, multi-dictionary lookup, and morphological word analysis. | `Python` |
 <!-- END_SHOWCASE -->
