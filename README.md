@@ -78,6 +78,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🪤 [**mutablecheck**](https://github.com/Rituparno-Majumdar/mutablecheck) | Detect mutable default arguments (list/dict/set literals + constructors) in Python — catch the shared-state aliasing footgun before AI-generated code ships. Zero dependencies. | `Python` |
 | 👥 [**shadowcheck**](https://github.com/Rituparno-Majumdar/shadowcheck) | Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies. | `Python` |
 | 🌪️ [**cccheck**](https://github.com/Rituparno-Majumdar/cccheck) | Flag high-cyclomatic-complexity functions in Python codebases — catch God functions and untestable spaghetti before AI-generated code ships. Zero dependencies. | `Python` |
 | 🔁 [**dupcheck**](https://github.com/Rituparno-Majumdar/dupcheck) | Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt. Zero dependencies. | `Python` |
@@ -122,6 +123,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-18 | [mutablecheck Quick Guide](guides/mutablecheck-guide.md) | Detect mutable default arguments — catch `def f(items=[])` shared-state aliasing before AI-generated code ships |
 | 2026-08-16 | [shadowcheck Quick Guide](guides/shadowcheck-guide.md) | Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeErrors far from the binding site |
 | 2026-08-15 | [cccheck Quick Guide](guides/cccheck-guide.md) | Flag high-cyclomatic-complexity functions in Python — catch God functions and untestable spaghetti before AI-generated code ships |
 | 2026-08-14 | [dupcheck Quick Guide](guides/dupcheck-guide.md) | Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt |

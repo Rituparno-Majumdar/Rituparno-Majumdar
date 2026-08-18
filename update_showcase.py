@@ -238,6 +238,12 @@ CURATED_PROJECTS = {
         "emoji": "👥",
         "category": "✅ Code Quality & Security",
         "description": "Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies."
+    },
+    "mutablecheck": {
+        "name": "mutablecheck",
+        "emoji": "🪤",
+        "category": "✅ Code Quality & Security",
+        "description": "Detect mutable default arguments (list/dict/set literals + constructors) in Python — catch the shared-state aliasing footgun before AI-generated code ships. Zero dependencies."
     }
 }
 
