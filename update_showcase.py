@@ -244,6 +244,12 @@ CURATED_PROJECTS = {
         "emoji": "🪤",
         "category": "✅ Code Quality & Security",
         "description": "Detect mutable default arguments (list/dict/set literals + constructors) in Python — catch the shared-state aliasing footgun before AI-generated code ships. Zero dependencies."
+    },
+    "broadcheck": {
+        "name": "broadcheck",
+        "emoji": "🧯",
+        "category": "✅ Code Quality & Security",
+        "description": "Detect bare, broad, and empty except handlers in Python — catch the silent error-swallowing (except Exception: pass) before it masks production crashes. Zero dependencies."
     }
 }
 
