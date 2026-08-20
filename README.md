@@ -78,7 +78,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
-| 🧯 [**broadcheck**](https://github.com/Rituparno-Majumdar/broadcheck) | Detect bare, broad, and empty except handlers in Python — catch the silent error-swallowing (except Exception: pass) before it masks production crashes. Zero dependencies. | `Mixed` |
+| 🧯 [**broadcheck**](https://github.com/Rituparno-Majumdar/broadcheck) | Detect bare, broad, and empty except handlers in Python — catch the silent error-swallowing (except Exception: pass) before it masks production crashes. Zero dependencies. | `Python` |
 | 🪤 [**mutablecheck**](https://github.com/Rituparno-Majumdar/mutablecheck) | Detect mutable default arguments (list/dict/set literals + constructors) in Python — catch the shared-state aliasing footgun before AI-generated code ships. Zero dependencies. | `Python` |
 | 👥 [**shadowcheck**](https://github.com/Rituparno-Majumdar/shadowcheck) | Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies. | `Python` |
 | 🌪️ [**cccheck**](https://github.com/Rituparno-Majumdar/cccheck) | Flag high-cyclomatic-complexity functions in Python codebases — catch God functions and untestable spaghetti before AI-generated code ships. Zero dependencies. | `Python` |
