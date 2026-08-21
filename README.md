@@ -35,38 +35,39 @@ Projects are auto-organized by domain from my active repositories.
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
-| 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
-| 🤖 [**mcpconfig**](https://github.com/Rituparno-Majumdar/mcpconfig) | Validate MCP client configuration files (.mcp.json, claude_desktop_config.json, opencode mcp: blocks) — catch the structural mistakes that silently break MCP servers. Zero dependencies. | `Python` |
+| 🤖 [**kp-astrology**](https://github.com/Rituparno-Majumdar/kp-astrology) | KP astrology Python library: Krishnamurti Paddhati engine with nakshatra/sub-lord chains, Vimshottari dasha, Placidus cusps, birth-time rectification, and KP horary (1-249). Swiss Ephemeris powered. | `Python` |
 | 🤖 [**skillcheck**](https://github.com/Rituparno-Majumdar/skillcheck) | Validate Agent Skills (SKILL.md) directories — catch missing fields, malformed frontmatter, and broken file references before your agent silently loses a skill. | `Python` |
+| 🤖 [**mcphealth**](https://github.com/Rituparno-Majumdar/mcphealth) | Health-check MCP (Model Context Protocol) servers - confirm availability, supported tools and schema integrity from the CLI. | `Python` |
+| 🤖 [**opencode-research-agents**](https://github.com/Rituparno-Majumdar/opencode-research-agents) | A multi-agent research orchestration system running inside OpenCode, using epistemic parallelism to save synthesized findings to Obsidian. | `Shell` |
+| 🎨 [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | **SocialCraft AI**: Zero-install client-side AI tool generating platform-optimized posts in 13 Indian regional languages using the Gemini API. | `HTML` |
+| 🧪 [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Annotation quality assessment pipeline calibrating Bengali sentiment datasets with Cohen's Kappa, disagreement analysis, and bias evaluation. | `Python` |
+| 🤖 [**mcpconfig**](https://github.com/Rituparno-Majumdar/mcpconfig) | Validate MCP client configuration files (.mcp.json, claude_desktop_config.json, opencode mcp: blocks) — catch the structural mistakes that silently break MCP servers. Zero dependencies. | `Python` |
+| 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🤖 [**wikicheck-test-create**](https://github.com/Rituparno-Majumdar/wikicheck-test-create) | scope test | `Mixed` |
-| 🤖 [**mcphealth**](https://github.com/Rituparno-Majumdar/mcphealth) | No description provided. | `Python` |
 | 🤖 [**mcpschema**](https://github.com/Rituparno-Majumdar/mcpschema) | Validate MCP (Model Context Protocol) tool JSON Schema definitions — catch missing fields, invalid types, and silent failures before your AI agent calls them. | `Python` |
 | 🛡️ [**promptshield**](https://github.com/Rituparno-Majumdar/promptshield) | Defensive LLM structured extraction validation middleware — guards against prompt injections and repairs truncated JSON responses. | `Python` |
 | 🧠 [**markdownmind**](https://github.com/Rituparno-Majumdar/markdownmind) | Autonomous knowledge graph synthesizer for Markdown vaults — structures links, clusters topics, detects orphan files, and generates summaries. | `Python` |
 | 📊 [**kappabench**](https://github.com/Rituparno-Majumdar/kappabench) | Agreement and consensus benchmarking framework for LLM-as-a-judge classifiers — calculates Cohen's Kappa, Fleiss' Kappa, and Krippendorff's Alpha. | `Python` |
-| 🎨 [**social-media-manager**](https://github.com/Rituparno-Majumdar/social-media-manager) | **SocialCraft AI**: Zero-install client-side AI tool generating platform-optimized posts in 13 Indian regional languages using the Gemini API. | `HTML` |
-| 🧪 [**bengali-annotation-quality**](https://github.com/Rituparno-Majumdar/bengali-annotation-quality) | Annotation quality assessment pipeline calibrating Bengali sentiment datasets with Cohen's Kappa, disagreement analysis, and bias evaluation. | `Python` |
-| 🤖 [**opencode-research-agents**](https://github.com/Rituparno-Majumdar/opencode-research-agents) | A multi-agent research orchestration system running inside OpenCode, using epistemic parallelism to save synthesized findings to Obsidian. | `Shell` |
 
 ### 🏷️ Data Annotation & Labeling
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🔀 [**splitcheck**](https://github.com/Rituparno-Majumdar/splitcheck) | Detect data leakage (shared samples) across ML dataset split files — flag rows that appear in both train and test before they inflate your evaluation metrics. | `Python` |
+| 🏷️ [**annocheck**](https://github.com/Rituparno-Majumdar/annocheck) | Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI. | `Python` |
 | 🏷️ [**labcheck**](https://github.com/Rituparno-Majumdar/labcheck) | Validate text annotation datasets (CSV/JSONL) for label conflicts, empty values, and quality issues — one command, zero config. | `Python` |
 | 📊 [**coco-summary**](https://github.com/Rituparno-Majumdar/coco-summary) | Zero-dependency CLI to inspect COCO annotation JSON files — class distribution, bbox stats, and quality flags in one command. | `Python` |
 | 📊 [**cocostat**](https://github.com/Rituparno-Majumdar/cocostat) | COCO dataset statistics from your terminal — inspect annotation files: class distribution, bbox stats, annotation density, and more. | `Python` |
-| 🏷️ [**annocheck**](https://github.com/Rituparno-Majumdar/annocheck) | Validate YOLO-format CV datasets for corrupted labels, out-of-bounds boxes, missing images, and class mismatches — zero-config CLI. | `Python` |
 
 ### 📄 Document Processing & RAG
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
-| 📦 [**chunkviz**](https://github.com/Rituparno-Majumdar/chunkviz) | Visualize recursive character text splitting from your terminal — see chunk boundaries, overlap regions, and size distribution for RAG optimization. | `Python` |
 | 🔲 [**fencecheck**](https://github.com/Rituparno-Majumdar/fencecheck) | Detect unclosed Markdown code fences (``` and ~~~) — catch broken code blocks that silently swallow the rest of your document. Zero dependencies. | `Python` |
-| 📄 [**wikicheck**](https://github.com/Rituparno-Majumdar/wikicheck) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI. | `Python` |
 | 📄 [**linkrot**](https://github.com/Rituparno-Majumdar/linkrot) | Detect broken internal Markdown links — scan your docs for dead file references and missing section anchors. | `Python` |
+| 📦 [**chunkviz**](https://github.com/Rituparno-Majumdar/chunkviz) | Visualize recursive character text splitting from your terminal — see chunk boundaries, overlap regions, and size distribution for RAG optimization. | `Python` |
 | 📄 [**docstruct**](https://github.com/Rituparno-Majumdar/docstruct) | Validate Markdown heading structure — detects skipped levels, missing H1s, and structural inconsistencies in documentation. | `Python` |
+| 📄 [**wikicheck**](https://github.com/Rituparno-Majumdar/wikicheck) | Validate Obsidian-style [[wikilinks]] — catch broken targets, missing heading anchors, malformed links, and orphan notes in one zero-dependency CLI. | `Python` |
 
 ### 🛠️ CLI Tools & Productivity
 
@@ -78,14 +79,14 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files. | `Python` |
+| 👥 [**shadowcheck**](https://github.com/Rituparno-Majumdar/shadowcheck) | Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies. | `Python` |
+| 🪤 [**mutablecheck**](https://github.com/Rituparno-Majumdar/mutablecheck) | Detect mutable default arguments (list/dict/set literals + constructors) in Python — catch the shared-state aliasing footgun before AI-generated code ships. Zero dependencies. | `Python` |
 | 🧬 [**globalcheck**](https://github.com/Rituparno-Majumdar/globalcheck) | Detect silent mutation of module-level state in Python — find functions that append/update/patch shared globals instead of returning values, the shared-state leak behind untestable AI code. Zero dependencies. | `Python` |
 | 🧯 [**broadcheck**](https://github.com/Rituparno-Majumdar/broadcheck) | Detect bare, broad, and empty except handlers in Python — catch the silent error-swallowing (except Exception: pass) before it masks production crashes. Zero dependencies. | `Python` |
-| 🪤 [**mutablecheck**](https://github.com/Rituparno-Majumdar/mutablecheck) | Detect mutable default arguments (list/dict/set literals + constructors) in Python — catch the shared-state aliasing footgun before AI-generated code ships. Zero dependencies. | `Python` |
-| 👥 [**shadowcheck**](https://github.com/Rituparno-Majumdar/shadowcheck) | Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies. | `Python` |
-| 🌪️ [**cccheck**](https://github.com/Rituparno-Majumdar/cccheck) | Flag high-cyclomatic-complexity functions in Python codebases — catch God functions and untestable spaghetti before AI-generated code ships. Zero dependencies. | `Python` |
-| 🔁 [**dupcheck**](https://github.com/Rituparno-Majumdar/dupcheck) | Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt. Zero dependencies. | `Python` |
 | ✅ [**todolint**](https://github.com/Rituparno-Majumdar/todolint) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies. | `Python` |
-| ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files | `Python` |
+| 🔁 [**dupcheck**](https://github.com/Rituparno-Majumdar/dupcheck) | Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt. Zero dependencies. | `Python` |
+| 🌪️ [**cccheck**](https://github.com/Rituparno-Majumdar/cccheck) | Flag high-cyclomatic-complexity functions in Python codebases — catch God functions and untestable spaghetti before AI-generated code ships. Zero dependencies. | `Python` |
 
 ### 🌾 Civic Tech, CSR & NGO Tools
 
@@ -94,11 +95,11 @@ Projects are auto-organized by domain from my active repositories.
 | 🌾 [**ngo-grants-radar**](https://github.com/Rituparno-Majumdar/ngo-grants-radar) | Automated grant call monitoring for NGOs — tracks open funding opportunities from institutional donors and delivers Telegram alerts via GitHub Actions. | `Python` |
 | 💼 [**ngo-jobs-radar**](https://github.com/Rituparno-Majumdar/ngo-jobs-radar) | Automated NGO and social sector job alert pipeline — monitors 6 platforms and delivers real-time Telegram notifications via GitHub Actions. | `Python` |
 | 📚 [**sw-parivar**](https://github.com/Rituparno-Majumdar/sw-parivar) | Indian Social Work Knowledge Base — offline-first reference vault of laws, schemes, judgments, and UGC-NET frameworks for field practitioners. | `HTML` |
-| 🌾 [**Rituparno-Majumdar.github.io**](https://github.com/Rituparno-Majumdar/Rituparno-Majumdar.github.io) | Rituparno Majumdar — AI Specialist, CSR Manager, Indologist. Daily build log and portfolio. | `HTML` |
 | 🌾 [**cbo-capacity-assessment**](https://github.com/Rituparno-Majumdar/cbo-capacity-assessment) | CLI toolkit to assess CBO capacity across governance, finance, programmes, HR, advocacy, and infrastructure metrics. | `Python` |
-| 🌾 [**ngo-field-assistant**](https://github.com/Rituparno-Majumdar/ngo-field-assistant) | Offline-first CLI tool for NGO and CSR field workers — manage beneficiary data, validate entries, and generate reports without internet | `Python` |
 | 🌾 [**csr-grant-tracker**](https://github.com/Rituparno-Majumdar/csr-grant-tracker) | Zero-dependency CLI for CSR grant compliance, milestone tracking, and Schedule VII reporting. | `Python` |
 | 🌾 [**csr-impact-report**](https://github.com/Rituparno-Majumdar/csr-impact-report) | CLI tool for CSR grant impact calculation and compliance reporting — generate donor-ready metrics. | `Python` |
+| 🌾 [**Rituparno-Majumdar.github.io**](https://github.com/Rituparno-Majumdar/Rituparno-Majumdar.github.io) | Rituparno Majumdar - AI Specialist, CSR Manager & Indologist. Portfolio and daily build log. | `HTML` |
+| 🌾 [**ngo-field-assistant**](https://github.com/Rituparno-Majumdar/ngo-field-assistant) | Offline-first CLI tool for NGO and CSR field workers — manage beneficiary data, validate entries, and generate reports without internet | `Python` |
 | 🌾 [**bis-standards-indexer**](https://github.com/Rituparno-Majumdar/bis-standards-indexer) | CLI tool to index, search, and manage Bureau of Indian Standards (BIS) references — offline-first for compliance workflows | `Python` |
 | 🎙️ [**voice-reporting-companion**](https://github.com/Rituparno-Majumdar/voice-reporting-companion) | Offline-first voice-to-JSON health reporting tool for ASHA and Anganwadi workers — auto-parses speech into NHM child health forms and stores in IndexedDB. | `HTML` |
 | 📦 [**pds-audit-portal**](https://github.com/Rituparno-Majumdar/pds-audit-portal) | Automated audit engine for India's Public Distribution System — detects duplicate ration cards, allocation shortfalls, and suspicious cancellation hotspots. | `Python` |
@@ -111,9 +112,9 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
-| 🛠️ [**timeofbirth**](https://github.com/Rituparno-Majumdar/timeofbirth) | KP (Krishnamurti Paddhati) birth time rectification — reverse-engineer the true time of birth from life events, right in your browser. Single HTML file, offline, private, global. | `HTML` |
-| 🛠️ [**tablecheck**](https://github.com/Rituparno-Majumdar/tablecheck) | Validate Markdown table structure — detect malformed tables, broken alignment, and inconsistent columns | `Python` |
+| 🛠️ [**tablecheck**](https://github.com/Rituparno-Majumdar/tablecheck) | Validate Markdown table structure - detect malformed tables, broken alignment and inconsistent columns. | `Python` |
 | 🛠️ [**shabdabodha**](https://github.com/Rituparno-Majumdar/shabdabodha) | Sanskrit NLP toolkit for transliteration, multi-dictionary lookup, and morphological word analysis. | `Python` |
+| 🛠️ [**timeofbirth**](https://github.com/Rituparno-Majumdar/timeofbirth) | KP (Krishnamurti Paddhati) birth time rectification — reverse-engineer the true time of birth from life events, right in your browser. Single HTML file, offline, private, global. | `HTML` |
 <!-- END_SHOWCASE -->
 
 ---
