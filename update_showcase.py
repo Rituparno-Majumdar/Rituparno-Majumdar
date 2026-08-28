@@ -255,7 +255,13 @@ CURATED_PROJECTS = {
         "name": "globalcheck",
         "emoji": "🧬",
         "category": "✅ Code Quality & Security",
-        "description": "Detect silent mutation of module-level state in Python — find functions that append/update/patch shared globals instead of returning values, the shared-state leak behind untestable AI code. Zero dependencies."
+        "description": "Detect silent mutation of module-level state in Python — find functions that append to, update, or patch shared globals instead of returning values, the shared-state leak behind untestable AI code. Zero dependencies."
+    },
+    "assertcheck": {
+        "name": "assertcheck",
+        "emoji": "🔒",
+        "category": "✅ Code Quality & Security",
+        "description": "Detect assert statements used for runtime validation — catch code that silently vanishes under python -O before it ships to production. Zero dependencies."
     }
 }
 

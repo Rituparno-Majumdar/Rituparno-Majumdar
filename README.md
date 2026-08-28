@@ -79,10 +79,11 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🔒 [**assertcheck**](https://github.com/Rituparno-Majumdar/assertcheck) | Detect assert statements used for runtime validation — catch code that silently vanishes under python -O before it ships to production. Zero dependencies. | `Python` |
 | ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files. | `Python` |
 | 👥 [**shadowcheck**](https://github.com/Rituparno-Majumdar/shadowcheck) | Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies. | `Python` |
 | 🪤 [**mutablecheck**](https://github.com/Rituparno-Majumdar/mutablecheck) | Detect mutable default arguments (list/dict/set literals + constructors) in Python — catch the shared-state aliasing footgun before AI-generated code ships. Zero dependencies. | `Python` |
-| 🧬 [**globalcheck**](https://github.com/Rituparno-Majumdar/globalcheck) | Detect silent mutation of module-level state in Python — find functions that append/update/patch shared globals instead of returning values, the shared-state leak behind untestable AI code. Zero dependencies. | `Python` |
+| 🧬 [**globalcheck**](https://github.com/Rituparno-Majumdar/globalcheck) | Detect silent mutation of module-level state in Python — find functions that append to, update, or patch shared globals instead of returning values, the shared-state leak behind untestable AI code. Zero dependencies. | `Python` |
 | 🧯 [**broadcheck**](https://github.com/Rituparno-Majumdar/broadcheck) | Detect bare, broad, and empty except handlers in Python — catch the silent error-swallowing (except Exception: pass) before it masks production crashes. Zero dependencies. | `Python` |
 | ✅ [**todolint**](https://github.com/Rituparno-Majumdar/todolint) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies. | `Python` |
 | 🔁 [**dupcheck**](https://github.com/Rituparno-Majumdar/dupcheck) | Detect duplicated code blocks across a codebase — catch copy-paste and AI-generated duplicates before they become maintenance debt. Zero dependencies. | `Python` |
@@ -126,6 +127,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-28 | [assertcheck Quick Guide](guides/assertcheck-guide.md) | Detect assert statements used for runtime validation — catch code that silently vanishes under python -O before it ships to production |
 | 2026-08-20 | [globalcheck Quick Guide](guides/globalcheck-guide.md) | Detect silent mutation of module-level state in Python — catch functions that `results.append(...)` to shared globals instead of returning values, the shared-state leak behind untestable AI code |
 | 2026-08-19 | [broadcheck Quick Guide](guides/broadcheck-guide.md) | Detect bare, broad, and empty except handlers — catch `except Exception: pass` silent error-swallowing before it masks production crashes |
 | 2026-08-18 | [mutablecheck Quick Guide](guides/mutablecheck-guide.md) | Detect mutable default arguments — catch `def f(items=[])` shared-state aliasing before AI-generated code ships |
