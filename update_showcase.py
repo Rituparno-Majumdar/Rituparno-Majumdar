@@ -261,7 +261,13 @@ CURATED_PROJECTS = {
         "name": "assertcheck",
         "emoji": "🔒",
         "category": "✅ Code Quality & Security",
-        "description": "Detect assert statements used for runtime validation — catch code that silently vanishes under python -O before it ships to production. Zero dependencies."
+        "description": "Detect assert statements used for runtime validation — catch code that silently vanishes under python -O before it ships to production. Zero dependencies.",
+    },
+    "stubcheck": {
+        "name": "stubcheck",
+        "emoji": "💤",
+        "category": "✅ Code Quality & Security",
+        "description": "Detect silent no-op function stubs (pass/ellipsis bodies) that ship to production and return None — the unimplemented logic AI leaves behind in callbacks, handlers, and overrides. Zero dependencies.",
     }
 }
 

@@ -79,6 +79,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 💤 [**stubcheck**](https://github.com/Rituparno-Majumdar/stubcheck) | Detect silent no-op function stubs (pass/ellipsis bodies) that ship to production and return None — the unimplemented logic AI leaves behind in callbacks, handlers, and overrides. Zero dependencies. | `Python` |
 | 🔒 [**assertcheck**](https://github.com/Rituparno-Majumdar/assertcheck) | Detect assert statements used for runtime validation — catch code that silently vanishes under python -O before it ships to production. Zero dependencies. | `Python` |
 | ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files. | `Python` |
 | 👥 [**shadowcheck**](https://github.com/Rituparno-Majumdar/shadowcheck) | Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies. | `Python` |
@@ -127,6 +128,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 <!-- DAILY_GISTS_START -->
 | Date | Title | Description |
 |------|-------|-------------|
+| 2026-08-29 | [stubcheck Quick Guide](guides/stubcheck-guide.md) | Detect silent no-op function stubs (pass/ellipsis bodies) that ship to production and return None — the unimplemented logic AI leaves behind in callbacks, handlers, and overrides |
 | 2026-08-28 | [assertcheck Quick Guide](guides/assertcheck-guide.md) | Detect assert statements used for runtime validation — catch code that silently vanishes under python -O before it ships to production |
 | 2026-08-20 | [globalcheck Quick Guide](guides/globalcheck-guide.md) | Detect silent mutation of module-level state in Python — catch functions that `results.append(...)` to shared globals instead of returning values, the shared-state leak behind untestable AI code |
 | 2026-08-19 | [broadcheck Quick Guide](guides/broadcheck-guide.md) | Detect bare, broad, and empty except handlers — catch `except Exception: pass` silent error-swallowing before it masks production crashes |
