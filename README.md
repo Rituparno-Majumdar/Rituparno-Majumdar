@@ -35,6 +35,7 @@ Projects are auto-organized by domain from my active repositories.
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
+| 🤖 [**ai-checkkit**](https://github.com/Rituparno-Majumdar/ai-checkkit) | No description provided. | `Python` |
 | 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🤖 [**kp-astrology**](https://github.com/Rituparno-Majumdar/kp-astrology) | KP astrology Python library: Krishnamurti Paddhati engine with nakshatra/sub-lord chains, Vimshottari dasha, Placidus cusps, birth-time rectification, and KP horary (1-249). Swiss Ephemeris powered. | `Python` |
 | 🤖 [**skillcheck**](https://github.com/Rituparno-Majumdar/skillcheck) | Validate Agent Skills (SKILL.md) directories — catch missing fields, malformed frontmatter, and broken file references before your agent silently loses a skill. | `Python` |
@@ -63,6 +64,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 📄 [**sci-calc-20260903**](https://github.com/Rituparno-Majumdar/sci-calc-20260903) | ⚡ Production-grade scientific calculator with dual API, rich CLI/REPL, comprehensive error handling, and 100% test coverage. | `Python` |
 | 🔲 [**fencecheck**](https://github.com/Rituparno-Majumdar/fencecheck) | Detect unclosed Markdown code fences (``` and ~~~) — catch broken code blocks that silently swallow the rest of your document. Zero dependencies. | `Python` |
 | 📄 [**linkrot**](https://github.com/Rituparno-Majumdar/linkrot) | Detect broken internal Markdown links — scan your docs for dead file references and missing section anchors. | `Python` |
 | 📦 [**chunkviz**](https://github.com/Rituparno-Majumdar/chunkviz) | Visualize recursive character text splitting from your terminal — see chunk boundaries, overlap regions, and size distribution for RAG optimization. | `Python` |
@@ -79,11 +81,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
-| 💤 [**stubcheck**](https://github.com/Rituparno-Majumdar/stubcheck) | Detect silent no-op function stubs (pass/ellipsis bodies) that ship to production and return None — the unimplemented logic AI leaves behind in callbacks, handlers, and overrides. Zero dependencies. | `Python` |
-| 🔒 [**assertcheck**](https://github.com/Rituparno-Majumdar/assertcheck) | Detect assert statements used for runtime validation — catch code that silently vanishes under python -O before it ships to production. Zero dependencies. | `Python` |
 | ✅ [**frontcheck**](https://github.com/Rituparno-Majumdar/frontcheck) | YAML frontmatter linter for Markdown files. | `Python` |
-| 👥 [**shadowcheck**](https://github.com/Rituparno-Majumdar/shadowcheck) | Detect identifiers that shadow Python builtins — catch `list = []` and `def id()` before runtime TypeError far from the binding site. AI-code focused. Zero dependencies. | `Python` |
-| 🪤 [**mutablecheck**](https://github.com/Rituparno-Majumdar/mutablecheck) | Detect mutable default arguments (list/dict/set literals + constructors) in Python — catch the shared-state aliasing footgun before AI-generated code ships. Zero dependencies. | `Python` |
 | 🧬 [**globalcheck**](https://github.com/Rituparno-Majumdar/globalcheck) | Detect silent mutation of module-level state in Python — find functions that append to, update, or patch shared globals instead of returning values, the shared-state leak behind untestable AI code. Zero dependencies. | `Python` |
 | 🧯 [**broadcheck**](https://github.com/Rituparno-Majumdar/broadcheck) | Detect bare, broad, and empty except handlers in Python — catch the silent error-swallowing (except Exception: pass) before it masks production crashes. Zero dependencies. | `Python` |
 | ✅ [**todolint**](https://github.com/Rituparno-Majumdar/todolint) | Scan codebases for TODO/FIXME/HACK/XXX/BUG markers — CI-ready blocker detection with JSON output. Zero dependencies. | `Python` |
@@ -114,6 +112,8 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🛠️ [**herdr-4way-demo-20260903**](https://github.com/Rituparno-Majumdar/herdr-4way-demo-20260903) | No description provided. | `Mixed` |
+| 🛠️ [**Kriya**](https://github.com/Rituparno-Majumdar/Kriya) | No description provided. | `Mixed` |
 | 🛠️ [**tablecheck**](https://github.com/Rituparno-Majumdar/tablecheck) | Validate Markdown table structure - detect malformed tables, broken alignment and inconsistent columns. | `Python` |
 | 🛠️ [**shabdabodha**](https://github.com/Rituparno-Majumdar/shabdabodha) | Sanskrit NLP toolkit for transliteration, multi-dictionary lookup, and morphological word analysis. | `Python` |
 | 🛠️ [**timeofbirth**](https://github.com/Rituparno-Majumdar/timeofbirth) | KP (Krishnamurti Paddhati) birth time rectification — reverse-engineer the true time of birth from life events, right in your browser. Single HTML file, offline, private, global. | `HTML` |
@@ -200,7 +200,7 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Rituparno-Majumdar/kalki/pull/13) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
+1. 🚀 Published release [v1.0.0 — Production-Grade Scientific Calculator & Rich CLI](https://github.com/Rituparno-Majumdar/sci-calc-20260903/releases/tag/v1.0.0) in [Rituparno-Majumdar/sci-calc-20260903](https://github.com/Rituparno-Majumdar/sci-calc-20260903)
 2. 💪 Opened PR [#13](https://github.com/Rituparno-Majumdar/kalki/pull/13) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
 3. 🔒 Closed issue [#1](https://github.com/Rituparno-Majumdar/kalki/issues/1) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
 4. 🗣 Commented on [#11](https://github.com/Rituparno-Majumdar/kalki/pull/11#issuecomment-4529050692) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
