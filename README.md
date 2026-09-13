@@ -200,8 +200,8 @@ Practical code patterns, guides, and configurations I reach for repeatedly — a
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Production-Grade Scientific Calculator & Rich CLI](https://github.com/Rituparno-Majumdar/sci-calc-20260903/releases/tag/v1.0.0) in [Rituparno-Majumdar/sci-calc-20260903](https://github.com/Rituparno-Majumdar/sci-calc-20260903)
-2. 💪 Opened PR [#13](https://github.com/Rituparno-Majumdar/kalki/pull/13) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
+1. ❗ Opened issue [#4028](https://github.com/herdrdev/herdr/issues/4028) in [herdrdev/herdr](https://github.com/herdrdev/herdr)
+2. 🚀 Published release [v1.0.0 — Production-Grade Scientific Calculator & Rich CLI](https://github.com/Rituparno-Majumdar/sci-calc-20260903/releases/tag/v1.0.0) in [Rituparno-Majumdar/sci-calc-20260903](https://github.com/Rituparno-Majumdar/sci-calc-20260903)
 3. 🔒 Closed issue [#1](https://github.com/Rituparno-Majumdar/kalki/issues/1) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
 4. 🗣 Commented on [#11](https://github.com/Rituparno-Majumdar/kalki/pull/11#issuecomment-4529050692) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
 5. 🎉 Merged PR [#10](https://github.com/Rituparno-Majumdar/kalki/pull/10) in [Rituparno-Majumdar/kalki](https://github.com/Rituparno-Majumdar/kalki)
