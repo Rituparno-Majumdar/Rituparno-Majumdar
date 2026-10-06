@@ -35,9 +35,9 @@ Projects are auto-organized by domain from my active repositories.
 | Project | Description | Language |
 | :--- | :--- | :---: |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
+| 🤖 [**kp-astrology**](https://github.com/Rituparno-Majumdar/kp-astrology) | KP astrology Python library: Krishnamurti Paddhati engine with nakshatra/sub-lord chains, Vimshottari dasha, Placidus cusps, birth-time rectification, and KP horary (1-249). Swiss Ephemeris powered. | `Python` |
 | 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🤖 [**ai-checkkit**](https://github.com/Rituparno-Majumdar/ai-checkkit) | No description provided. | `Python` |
-| 🤖 [**kp-astrology**](https://github.com/Rituparno-Majumdar/kp-astrology) | KP astrology Python library: Krishnamurti Paddhati engine with nakshatra/sub-lord chains, Vimshottari dasha, Placidus cusps, birth-time rectification, and KP horary (1-249). Swiss Ephemeris powered. | `Python` |
 | 🤖 [**skillcheck**](https://github.com/Rituparno-Majumdar/skillcheck) | Validate Agent Skills (SKILL.md) directories — catch missing fields, malformed frontmatter, and broken file references before your agent silently loses a skill. | `Python` |
 | 🤖 [**mcphealth**](https://github.com/Rituparno-Majumdar/mcphealth) | Health-check MCP (Model Context Protocol) servers - confirm availability, supported tools and schema integrity from the CLI. | `Python` |
 | 🤖 [**opencode-research-agents**](https://github.com/Rituparno-Majumdar/opencode-research-agents) | A multi-agent research orchestration system running inside OpenCode, using epistemic parallelism to save synthesized findings to Obsidian. | `Shell` |
