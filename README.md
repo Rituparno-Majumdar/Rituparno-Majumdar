@@ -112,6 +112,7 @@ Projects are auto-organized by domain from my active repositories.
 
 | Project | Description | Language |
 | :--- | :--- | :---: |
+| 🛠️ [**price-radar**](https://github.com/Rituparno-Majumdar/price-radar) | No description provided. | `Python` |
 | 🛠️ [**herdr-4way-demo-20260903**](https://github.com/Rituparno-Majumdar/herdr-4way-demo-20260903) | No description provided. | `Mixed` |
 | 🛠️ [**Kriya**](https://github.com/Rituparno-Majumdar/Kriya) | No description provided. | `Mixed` |
 | 🛠️ [**tablecheck**](https://github.com/Rituparno-Majumdar/tablecheck) | Validate Markdown table structure - detect malformed tables, broken alignment and inconsistent columns. | `Python` |
