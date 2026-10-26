@@ -36,7 +36,6 @@ Projects are auto-organized by domain from my active repositories.
 | :--- | :--- | :---: |
 | 🤖 [**kp-astrology**](https://github.com/Rituparno-Majumdar/kp-astrology) | KP astrology Python library: Krishnamurti Paddhati engine with nakshatra/sub-lord chains, Vimshottari dasha, Placidus cusps, birth-time rectification, and KP horary (1-249). Swiss Ephemeris powered. | `Python` |
 | 🧠 [**obsidian-llm-wiki-kit**](https://github.com/Rituparno-Majumdar/obsidian-llm-wiki-kit) | A prompt-engineering starter kit for building a self-growing personal knowledge base in Obsidian, implementing Andrej Karpathy's LLM Wiki pattern. | `Python` |
-| 🤖 [**argus**](https://github.com/Rituparno-Majumdar/argus) | Reference architecture for a self-hosted, always-on autonomous agent fleet — gateway, on-demand dispatch, monitoring, approval-gated autonomy, and a goal-carrying engine, as a replicable pattern. | `Mixed` |
 | 🗣️ [**bengali-annotation-job-alert**](https://github.com/Rituparno-Majumdar/bengali-annotation-job-alert) | Automated job monitor scraping LinkedIn, Remotive & RSS for Bengali AI data annotation and NLP roles, with Telegram alerts via GitHub Actions. | `Python` |
 | 🤖 [**ai-checkkit**](https://github.com/Rituparno-Majumdar/ai-checkkit) | No description provided. | `Python` |
 | 🤖 [**skillcheck**](https://github.com/Rituparno-Majumdar/skillcheck) | Validate Agent Skills (SKILL.md) directories — catch missing fields, malformed frontmatter, and broken file references before your agent silently loses a skill. | `Python` |
